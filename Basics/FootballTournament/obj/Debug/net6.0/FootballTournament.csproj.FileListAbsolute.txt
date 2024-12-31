@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\bin\Debug\net6.0\FootballTournament.exe
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\bin\Debug\net6.0\FootballTournament.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\bin\Debug\net6.0\FootballTournament.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\bin\Debug\net6.0\FootballTournament.dll
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\bin\Debug\net6.0\FootballTournament.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.dll
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\refint\FootballTournament.dll
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\FootballTournament.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\FootballTournament\obj\Debug\net6.0\ref\FootballTournament.dll

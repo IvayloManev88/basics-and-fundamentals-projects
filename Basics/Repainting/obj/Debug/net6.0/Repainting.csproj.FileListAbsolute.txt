@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\bin\Debug\net6.0\Repainting.exe
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\bin\Debug\net6.0\Repainting.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\bin\Debug\net6.0\Repainting.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\bin\Debug\net6.0\Repainting.dll
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\bin\Debug\net6.0\Repainting.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.dll
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\refint\Repainting.dll
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\Repainting.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Repainting\obj\Debug\net6.0\ref\Repainting.dll

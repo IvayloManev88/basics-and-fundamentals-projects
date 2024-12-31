@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\bin\Debug\net6.0\DayOfWeek.exe
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\bin\Debug\net6.0\DayOfWeek.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\bin\Debug\net6.0\DayOfWeek.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\bin\Debug\net6.0\DayOfWeek.dll
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\bin\Debug\net6.0\DayOfWeek.pdb
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.dll
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\refint\DayOfWeek.dll
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.pdb
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\DayOfWeek.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\DayOfWeek\obj\Debug\net6.0\ref\DayOfWeek.dll

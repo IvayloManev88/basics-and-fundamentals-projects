@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\bin\Debug\net6.0\NumbersFrom1To100.exe
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\bin\Debug\net6.0\NumbersFrom1To100.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\bin\Debug\net6.0\NumbersFrom1To100.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\bin\Debug\net6.0\NumbersFrom1To100.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\bin\Debug\net6.0\NumbersFrom1To100.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\refint\NumbersFrom1To100.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\NumbersFrom1To100.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumbersFrom1To100\obj\Debug\net6.0\ref\NumbersFrom1To100.dll

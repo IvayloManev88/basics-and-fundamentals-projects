@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\bin\Debug\net6.0\TruckDriver.exe
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\bin\Debug\net6.0\TruckDriver.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\bin\Debug\net6.0\TruckDriver.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\bin\Debug\net6.0\TruckDriver.dll
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\bin\Debug\net6.0\TruckDriver.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.dll
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\refint\TruckDriver.dll
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\TruckDriver.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TruckDriver\obj\Debug\net6.0\ref\TruckDriver.dll

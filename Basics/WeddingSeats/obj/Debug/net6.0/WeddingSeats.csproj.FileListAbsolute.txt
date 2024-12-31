@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\bin\Debug\net6.0\WeddingSeats.exe
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\bin\Debug\net6.0\WeddingSeats.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\bin\Debug\net6.0\WeddingSeats.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\bin\Debug\net6.0\WeddingSeats.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\bin\Debug\net6.0\WeddingSeats.pdb
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\refint\WeddingSeats.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.pdb
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\WeddingSeats.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeddingSeats\obj\Debug\net6.0\ref\WeddingSeats.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\bin\Debug\net6.0\TouristShop.exe
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\bin\Debug\net6.0\TouristShop.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\bin\Debug\net6.0\TouristShop.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\bin\Debug\net6.0\TouristShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\bin\Debug\net6.0\TouristShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\refint\TouristShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\TouristShop.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TouristShop\obj\Debug\net6.0\ref\TouristShop.dll

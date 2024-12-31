@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\bin\Debug\net6.0\AA_PB_Exam_1.exe
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\bin\Debug\net6.0\AA_PB_Exam_1.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\bin\Debug\net6.0\AA_PB_Exam_1.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\bin\Debug\net6.0\AA_PB_Exam_1.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\bin\Debug\net6.0\AA_PB_Exam_1.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\refint\AA_PB_Exam_1.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\AA_PB_Exam_1.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_1\obj\Debug\net6.0\ref\AA_PB_Exam_1.dll

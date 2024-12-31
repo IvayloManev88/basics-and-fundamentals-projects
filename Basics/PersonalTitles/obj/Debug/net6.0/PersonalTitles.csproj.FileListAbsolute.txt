@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\bin\Debug\net6.0\PersonalTitles.exe
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\bin\Debug\net6.0\PersonalTitles.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\bin\Debug\net6.0\PersonalTitles.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\bin\Debug\net6.0\PersonalTitles.dll
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\bin\Debug\net6.0\PersonalTitles.pdb
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.dll
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\refint\PersonalTitles.dll
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.pdb
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\PersonalTitles.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\PersonalTitles\obj\Debug\net6.0\ref\PersonalTitles.dll

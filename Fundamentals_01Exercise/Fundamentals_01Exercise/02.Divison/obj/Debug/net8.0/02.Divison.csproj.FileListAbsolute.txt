@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\bin\Debug\net8.0\02.Divison.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\bin\Debug\net8.0\02.Divison.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\bin\Debug\net8.0\02.Divison.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\bin\Debug\net8.0\02.Divison.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\bin\Debug\net8.0\02.Divison.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\refint\02.Divison.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\02.Divison.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02.Divison\obj\Debug\net8.0\ref\02.Divison.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\bin\Debug\net6.0\FruitShop.exe
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\bin\Debug\net6.0\FruitShop.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\bin\Debug\net6.0\FruitShop.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\bin\Debug\net6.0\FruitShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\bin\Debug\net6.0\FruitShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\refint\FruitShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\FruitShop.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\FruitShop\obj\Debug\net6.0\ref\FruitShop.dll

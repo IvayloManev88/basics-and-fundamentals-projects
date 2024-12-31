@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\bin\Debug\net6.0\WeekendOrWorkingDay.exe
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\bin\Debug\net6.0\WeekendOrWorkingDay.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\bin\Debug\net6.0\WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\bin\Debug\net6.0\WeekendOrWorkingDay.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\bin\Debug\net6.0\WeekendOrWorkingDay.pdb
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\refint\WeekendOrWorkingDay.dll
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.pdb
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\WeekendOrWorkingDay.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\WeekendOrWorkingDay\obj\Debug\net6.0\ref\WeekendOrWorkingDay.dll

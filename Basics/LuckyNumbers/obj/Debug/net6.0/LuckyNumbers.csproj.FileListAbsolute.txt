@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\bin\Debug\net6.0\LuckyNumbers.exe
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\bin\Debug\net6.0\LuckyNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\bin\Debug\net6.0\LuckyNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\bin\Debug\net6.0\LuckyNumbers.dll
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\bin\Debug\net6.0\LuckyNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.dll
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\refint\LuckyNumbers.dll
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\LuckyNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\LuckyNumbers\obj\Debug\net6.0\ref\LuckyNumbers.dll

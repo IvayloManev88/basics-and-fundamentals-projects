@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\bin\Debug\net6.0\ClockPart2.exe
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\bin\Debug\net6.0\ClockPart2.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\bin\Debug\net6.0\ClockPart2.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\bin\Debug\net6.0\ClockPart2.dll
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\bin\Debug\net6.0\ClockPart2.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.dll
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\refint\ClockPart2.dll
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ClockPart2.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\ClockPart2\obj\Debug\net6.0\ref\ClockPart2.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\bin\Debug\net6.0\InchToCentemeters.exe
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\bin\Debug\net6.0\InchToCentemeters.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\bin\Debug\net6.0\InchToCentemeters.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\bin\Debug\net6.0\InchToCentemeters.dll
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\bin\Debug\net6.0\InchToCentemeters.pdb
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.dll
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\refint\InchToCentemeters.dll
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.pdb
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\InchToCentemeters.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\InchToCentemeters\obj\Debug\net6.0\ref\InchToCentemeters.dll

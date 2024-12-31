@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\bin\Debug\net6.0\TradeCommissions.exe
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\bin\Debug\net6.0\TradeCommissions.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\bin\Debug\net6.0\TradeCommissions.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\bin\Debug\net6.0\TradeCommissions.dll
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\bin\Debug\net6.0\TradeCommissions.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.dll
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\refint\TradeCommissions.dll
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\TradeCommissions.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TradeCommissions\obj\Debug\net6.0\ref\TradeCommissions.dll

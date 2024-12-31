@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\bin\Debug\net6.0\SchoolCamp.exe
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\bin\Debug\net6.0\SchoolCamp.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\bin\Debug\net6.0\SchoolCamp.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\bin\Debug\net6.0\SchoolCamp.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\bin\Debug\net6.0\SchoolCamp.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\refint\SchoolCamp.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\SchoolCamp.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolCamp\obj\Debug\net6.0\ref\SchoolCamp.dll

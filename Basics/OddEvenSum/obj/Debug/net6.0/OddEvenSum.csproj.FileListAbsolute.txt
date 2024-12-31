@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\bin\Debug\net6.0\OddEvenSum.exe
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\bin\Debug\net6.0\OddEvenSum.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\bin\Debug\net6.0\OddEvenSum.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\bin\Debug\net6.0\OddEvenSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\bin\Debug\net6.0\OddEvenSum.pdb
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\refint\OddEvenSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.pdb
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\OddEvenSum.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\OddEvenSum\obj\Debug\net6.0\ref\OddEvenSum.dll

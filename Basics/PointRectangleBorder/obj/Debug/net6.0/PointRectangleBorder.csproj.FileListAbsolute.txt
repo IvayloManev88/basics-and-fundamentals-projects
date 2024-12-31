@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\bin\Debug\net6.0\PointRectangleBorder.exe
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\bin\Debug\net6.0\PointRectangleBorder.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\bin\Debug\net6.0\PointRectangleBorder.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\bin\Debug\net6.0\PointRectangleBorder.dll
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\bin\Debug\net6.0\PointRectangleBorder.pdb
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.dll
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\refint\PointRectangleBorder.dll
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.pdb
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\PointRectangleBorder.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\PointRectangleBorder\obj\Debug\net6.0\ref\PointRectangleBorder.dll

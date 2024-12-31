@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\bin\Debug\net6.0\FishTank.exe
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\bin\Debug\net6.0\FishTank.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\bin\Debug\net6.0\FishTank.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\bin\Debug\net6.0\FishTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\bin\Debug\net6.0\FishTank.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\refint\FishTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\FishTank.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\FishTank\obj\Debug\net6.0\ref\FishTank.dll

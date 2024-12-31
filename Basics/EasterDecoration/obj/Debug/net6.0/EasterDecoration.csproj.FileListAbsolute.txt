@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\bin\Debug\net6.0\EasterDecoration.exe
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\bin\Debug\net6.0\EasterDecoration.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\bin\Debug\net6.0\EasterDecoration.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\bin\Debug\net6.0\EasterDecoration.dll
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\bin\Debug\net6.0\EasterDecoration.pdb
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.dll
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\refint\EasterDecoration.dll
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.pdb
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\EasterDecoration.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\EasterDecoration\obj\Debug\net6.0\ref\EasterDecoration.dll

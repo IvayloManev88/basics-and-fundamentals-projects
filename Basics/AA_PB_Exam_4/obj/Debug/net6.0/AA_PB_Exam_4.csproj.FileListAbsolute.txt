@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\bin\Debug\net6.0\AA_PB_Exam_4.exe
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\bin\Debug\net6.0\AA_PB_Exam_4.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\bin\Debug\net6.0\AA_PB_Exam_4.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\bin\Debug\net6.0\AA_PB_Exam_4.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\bin\Debug\net6.0\AA_PB_Exam_4.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\refint\AA_PB_Exam_4.dll
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\AA_PB_Exam_4.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\AA_PB_Exam_4\obj\Debug\net6.0\ref\AA_PB_Exam_4.dll

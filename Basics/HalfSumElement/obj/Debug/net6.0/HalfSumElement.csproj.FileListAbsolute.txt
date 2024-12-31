@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\bin\Debug\net6.0\HalfSumElement.exe
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\bin\Debug\net6.0\HalfSumElement.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\bin\Debug\net6.0\HalfSumElement.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\bin\Debug\net6.0\HalfSumElement.dll
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\bin\Debug\net6.0\HalfSumElement.pdb
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.dll
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\refint\HalfSumElement.dll
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.pdb
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\HalfSumElement.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\HalfSumElement\obj\Debug\net6.0\ref\HalfSumElement.dll

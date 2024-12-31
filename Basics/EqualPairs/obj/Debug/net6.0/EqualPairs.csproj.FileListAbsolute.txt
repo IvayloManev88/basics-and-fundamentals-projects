@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\bin\Debug\net6.0\EqualPairs.exe
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\bin\Debug\net6.0\EqualPairs.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\bin\Debug\net6.0\EqualPairs.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\bin\Debug\net6.0\EqualPairs.dll
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\bin\Debug\net6.0\EqualPairs.pdb
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.dll
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\refint\EqualPairs.dll
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.pdb
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\EqualPairs.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\EqualPairs\obj\Debug\net6.0\ref\EqualPairs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AA_PB_Exam_3/1.0.0": {
+        "runtime": {
+          "AA_PB_Exam_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AA_PB_Exam_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

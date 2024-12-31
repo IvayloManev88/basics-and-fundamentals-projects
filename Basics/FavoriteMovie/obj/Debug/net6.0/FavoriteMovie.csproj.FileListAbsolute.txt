@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\bin\Debug\net6.0\FavoriteMovie.exe
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\bin\Debug\net6.0\FavoriteMovie.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\bin\Debug\net6.0\FavoriteMovie.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\bin\Debug\net6.0\FavoriteMovie.dll
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\bin\Debug\net6.0\FavoriteMovie.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.dll
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\refint\FavoriteMovie.dll
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\FavoriteMovie.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\FavoriteMovie\obj\Debug\net6.0\ref\FavoriteMovie.dll

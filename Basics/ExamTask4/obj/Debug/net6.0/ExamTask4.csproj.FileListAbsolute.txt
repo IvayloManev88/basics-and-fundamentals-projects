@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\bin\Debug\net6.0\ExamTask4.exe
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\bin\Debug\net6.0\ExamTask4.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\bin\Debug\net6.0\ExamTask4.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\bin\Debug\net6.0\ExamTask4.dll
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\bin\Debug\net6.0\ExamTask4.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.dll
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\refint\ExamTask4.dll
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ExamTask4.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\ExamTask4\obj\Debug\net6.0\ref\ExamTask4.dll

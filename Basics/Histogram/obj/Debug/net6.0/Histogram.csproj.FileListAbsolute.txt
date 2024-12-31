@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\bin\Debug\net6.0\Histogram.exe
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\bin\Debug\net6.0\Histogram.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\bin\Debug\net6.0\Histogram.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\bin\Debug\net6.0\Histogram.dll
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\bin\Debug\net6.0\Histogram.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.dll
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\refint\Histogram.dll
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\Histogram.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Histogram\obj\Debug\net6.0\ref\Histogram.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.exe
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.dll
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.pdb
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.dll
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\refint\GameOfIntervals.dll
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.pdb
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\GameOfIntervals\obj\Debug\net6.0\ref\GameOfIntervals.dll

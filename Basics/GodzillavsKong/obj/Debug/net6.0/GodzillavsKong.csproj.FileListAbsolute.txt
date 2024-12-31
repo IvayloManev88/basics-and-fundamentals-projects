@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\bin\Debug\net6.0\GodzillavsKong.exe
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\bin\Debug\net6.0\GodzillavsKong.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\bin\Debug\net6.0\GodzillavsKong.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\bin\Debug\net6.0\GodzillavsKong.dll
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\bin\Debug\net6.0\GodzillavsKong.pdb
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.dll
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\refint\GodzillavsKong.dll
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.pdb
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\GodzillavsKong.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\GodzillavsKong\obj\Debug\net6.0\ref\GodzillavsKong.dll

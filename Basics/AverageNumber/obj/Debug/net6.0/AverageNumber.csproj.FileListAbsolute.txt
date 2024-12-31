@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\bin\Debug\net6.0\TheMostPowerfulWord.exe
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\bin\Debug\net6.0\TheMostPowerfulWord.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\bin\Debug\net6.0\TheMostPowerfulWord.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\bin\Debug\net6.0\TheMostPowerfulWord.dll
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\bin\Debug\net6.0\TheMostPowerfulWord.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.dll
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\refint\TheMostPowerfulWord.dll
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\TheMostPowerfulWord.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TheMostPowerfulWord\obj\Debug\net6.0\ref\TheMostPowerfulWord.dll

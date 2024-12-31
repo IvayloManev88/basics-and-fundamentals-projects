@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\bin\Debug\net6.0\ObligatoryLiterature.exe
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\bin\Debug\net6.0\ObligatoryLiterature.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\bin\Debug\net6.0\ObligatoryLiterature.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\bin\Debug\net6.0\ObligatoryLiterature.dll
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\bin\Debug\net6.0\ObligatoryLiterature.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.dll
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\refint\ObligatoryLiterature.dll
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ObligatoryLiterature.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\ObligatoryLiterature\obj\Debug\net6.0\ref\ObligatoryLiterature.dll

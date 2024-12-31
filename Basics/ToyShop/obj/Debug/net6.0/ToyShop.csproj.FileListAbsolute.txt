@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\bin\Debug\net6.0\ToyShop.exe
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\bin\Debug\net6.0\ToyShop.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\bin\Debug\net6.0\ToyShop.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\bin\Debug\net6.0\ToyShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\bin\Debug\net6.0\ToyShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\refint\ToyShop.dll
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ToyShop.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\ToyShop\obj\Debug\net6.0\ref\ToyShop.dll

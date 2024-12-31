@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Pets\bin\Debug\net6.0\Pets.exe
+C:\Users\Armyman-PC\source\repos\Basics\Pets\bin\Debug\net6.0\Pets.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Pets\bin\Debug\net6.0\Pets.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Pets\bin\Debug\net6.0\Pets.dll
+C:\Users\Armyman-PC\source\repos\Basics\Pets\bin\Debug\net6.0\Pets.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.dll
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\refint\Pets.dll
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\Pets.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Pets\obj\Debug\net6.0\ref\Pets.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\bin\Debug\net6.0\NumberInRange.exe
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\bin\Debug\net6.0\NumberInRange.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\bin\Debug\net6.0\NumberInRange.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\bin\Debug\net6.0\NumberInRange.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\bin\Debug\net6.0\NumberInRange.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\refint\NumberInRange.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\NumberInRange.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberInRange\obj\Debug\net6.0\ref\NumberInRange.dll

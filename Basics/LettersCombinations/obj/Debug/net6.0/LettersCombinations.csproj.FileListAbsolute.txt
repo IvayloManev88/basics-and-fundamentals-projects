@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\bin\Debug\net6.0\LettersCombinations.exe
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\bin\Debug\net6.0\LettersCombinations.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\bin\Debug\net6.0\LettersCombinations.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\bin\Debug\net6.0\LettersCombinations.dll
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\bin\Debug\net6.0\LettersCombinations.pdb
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.dll
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\refint\LettersCombinations.dll
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.pdb
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\LettersCombinations.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\LettersCombinations\obj\Debug\net6.0\ref\LettersCombinations.dll

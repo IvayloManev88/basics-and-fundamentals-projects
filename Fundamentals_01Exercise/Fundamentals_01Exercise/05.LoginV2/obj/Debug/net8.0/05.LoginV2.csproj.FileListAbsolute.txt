@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\bin\Debug\net8.0\05.LoginV2.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\bin\Debug\net8.0\05.LoginV2.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\bin\Debug\net8.0\05.LoginV2.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\bin\Debug\net8.0\05.LoginV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\bin\Debug\net8.0\05.LoginV2.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\refint\05.LoginV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\05.LoginV2.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\05.LoginV2\obj\Debug\net8.0\ref\05.LoginV2.dll

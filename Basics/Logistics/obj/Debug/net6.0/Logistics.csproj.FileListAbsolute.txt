@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\bin\Debug\net6.0\Logistics.exe
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\bin\Debug\net6.0\Logistics.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\bin\Debug\net6.0\Logistics.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\bin\Debug\net6.0\Logistics.dll
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\bin\Debug\net6.0\Logistics.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.dll
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\refint\Logistics.dll
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\Logistics.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Logistics\obj\Debug\net6.0\ref\Logistics.dll

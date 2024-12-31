@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\bin\Debug\net6.0\SleepyTomCat.exe
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\bin\Debug\net6.0\SleepyTomCat.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\bin\Debug\net6.0\SleepyTomCat.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\bin\Debug\net6.0\SleepyTomCat.dll
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\bin\Debug\net6.0\SleepyTomCat.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.dll
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\refint\SleepyTomCat.dll
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\SleepyTomCat.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\SleepyTomCat\obj\Debug\net6.0\ref\SleepyTomCat.dll

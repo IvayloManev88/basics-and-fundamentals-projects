@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\bin\Debug\net6.0\Oscars.exe
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\bin\Debug\net6.0\Oscars.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\bin\Debug\net6.0\Oscars.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\bin\Debug\net6.0\Oscars.dll
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\bin\Debug\net6.0\Oscars.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.dll
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\refint\Oscars.dll
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\Oscars.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Oscars\obj\Debug\net6.0\ref\Oscars.dll

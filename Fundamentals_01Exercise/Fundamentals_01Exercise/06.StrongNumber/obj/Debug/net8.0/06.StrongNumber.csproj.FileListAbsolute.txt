@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\bin\Debug\net8.0\06.StrongNumber.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\bin\Debug\net8.0\06.StrongNumber.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\bin\Debug\net8.0\06.StrongNumber.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\bin\Debug\net8.0\06.StrongNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\bin\Debug\net8.0\06.StrongNumber.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\refint\06.StrongNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\06.StrongNumber.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\06.StrongNumber\obj\Debug\net8.0\ref\06.StrongNumber.dll

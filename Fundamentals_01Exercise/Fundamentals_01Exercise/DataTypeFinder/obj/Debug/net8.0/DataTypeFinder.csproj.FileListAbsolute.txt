@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\bin\Debug\net8.0\DataTypeFinder.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\bin\Debug\net8.0\DataTypeFinder.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\bin\Debug\net8.0\DataTypeFinder.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\bin\Debug\net8.0\DataTypeFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\bin\Debug\net8.0\DataTypeFinder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\refint\DataTypeFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\DataTypeFinder.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\DataTypeFinder\obj\Debug\net8.0\ref\DataTypeFinder.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\bin\Debug\net6.0\NumberSequence.exe
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\bin\Debug\net6.0\NumberSequence.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\bin\Debug\net6.0\NumberSequence.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\bin\Debug\net6.0\NumberSequence.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\bin\Debug\net6.0\NumberSequence.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\refint\NumberSequence.dll
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\NumberSequence.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\NumberSequence\obj\Debug\net6.0\ref\NumberSequence.dll

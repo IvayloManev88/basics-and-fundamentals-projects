@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\bin\Debug\net6.0\CinemaTicket.exe
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\bin\Debug\net6.0\CinemaTicket.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\bin\Debug\net6.0\CinemaTicket.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\bin\Debug\net6.0\CinemaTicket.dll
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\bin\Debug\net6.0\CinemaTicket.pdb
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.dll
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\refint\CinemaTicket.dll
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.pdb
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\CinemaTicket.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\CinemaTicket\obj\Debug\net6.0\ref\CinemaTicket.dll

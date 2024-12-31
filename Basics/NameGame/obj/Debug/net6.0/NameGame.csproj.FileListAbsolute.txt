@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\bin\Debug\net6.0\NameGame.exe
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\bin\Debug\net6.0\NameGame.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\bin\Debug\net6.0\NameGame.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\bin\Debug\net6.0\NameGame.dll
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\bin\Debug\net6.0\NameGame.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.dll
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\refint\NameGame.dll
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.pdb
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\NameGame.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\NameGame\obj\Debug\net6.0\ref\NameGame.dll

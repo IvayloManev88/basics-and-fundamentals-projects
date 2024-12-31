@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\bin\Debug\net6.0\TournamentChristmas.exe
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\bin\Debug\net6.0\TournamentChristmas.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\bin\Debug\net6.0\TournamentChristmas.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\bin\Debug\net6.0\TournamentChristmas.dll
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\bin\Debug\net6.0\TournamentChristmas.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.dll
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\refint\TournamentChristmas.dll
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\TournamentChristmas.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TournamentChristmas\obj\Debug\net6.0\ref\TournamentChristmas.dll

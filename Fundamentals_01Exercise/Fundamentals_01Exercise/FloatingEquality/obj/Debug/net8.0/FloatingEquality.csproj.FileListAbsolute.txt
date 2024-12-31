@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\bin\Debug\net8.0\FloatingEquality.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\bin\Debug\net8.0\FloatingEquality.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\bin\Debug\net8.0\FloatingEquality.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\bin\Debug\net8.0\FloatingEquality.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\bin\Debug\net8.0\FloatingEquality.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\refint\FloatingEquality.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\FloatingEquality.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FloatingEquality\obj\Debug\net8.0\ref\FloatingEquality.dll

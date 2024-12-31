@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\bin\Debug\net6.0\AnimalType.exe
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\bin\Debug\net6.0\AnimalType.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\bin\Debug\net6.0\AnimalType.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\bin\Debug\net6.0\AnimalType.dll
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\bin\Debug\net6.0\AnimalType.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.dll
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\refint\AnimalType.dll
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.pdb
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\AnimalType.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\AnimalType\obj\Debug\net6.0\ref\AnimalType.dll

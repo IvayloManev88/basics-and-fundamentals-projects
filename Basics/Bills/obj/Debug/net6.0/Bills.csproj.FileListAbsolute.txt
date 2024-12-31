@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Bills\bin\Debug\net6.0\Bills.exe
+C:\Users\Armyman-PC\source\repos\Basics\Bills\bin\Debug\net6.0\Bills.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Bills\bin\Debug\net6.0\Bills.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Bills\bin\Debug\net6.0\Bills.dll
+C:\Users\Armyman-PC\source\repos\Basics\Bills\bin\Debug\net6.0\Bills.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.dll
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\refint\Bills.dll
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\Bills.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Bills\obj\Debug\net6.0\ref\Bills.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\bin\Debug\net6.0\VowelsSum.exe
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\bin\Debug\net6.0\VowelsSum.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\bin\Debug\net6.0\VowelsSum.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\bin\Debug\net6.0\VowelsSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\bin\Debug\net6.0\VowelsSum.pdb
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\refint\VowelsSum.dll
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.pdb
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\VowelsSum.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\VowelsSum\obj\Debug\net6.0\ref\VowelsSum.dll

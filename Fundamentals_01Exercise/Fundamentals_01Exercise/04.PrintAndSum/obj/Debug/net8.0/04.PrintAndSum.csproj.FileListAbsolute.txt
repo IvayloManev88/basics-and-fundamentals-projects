@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\bin\Debug\net8.0\04.PrintAndSum.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\refint\04.PrintAndSum.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\04.PrintAndSum.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\04.PrintAndSum\obj\Debug\net8.0\ref\04.PrintAndSum.dll

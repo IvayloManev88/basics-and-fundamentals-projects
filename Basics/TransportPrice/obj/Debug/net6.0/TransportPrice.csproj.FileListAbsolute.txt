@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\bin\Debug\net6.0\TransportPrice.exe
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\bin\Debug\net6.0\TransportPrice.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\bin\Debug\net6.0\TransportPrice.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\bin\Debug\net6.0\TransportPrice.dll
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\bin\Debug\net6.0\TransportPrice.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.dll
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\refint\TransportPrice.dll
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.pdb
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\TransportPrice.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\TransportPrice\obj\Debug\net6.0\ref\TransportPrice.dll

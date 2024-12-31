@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\bin\Debug\net6.0\Dishwasher.exe
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\bin\Debug\net6.0\Dishwasher.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\bin\Debug\net6.0\Dishwasher.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\bin\Debug\net6.0\Dishwasher.dll
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\bin\Debug\net6.0\Dishwasher.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.dll
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\refint\Dishwasher.dll
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\Dishwasher.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Dishwasher\obj\Debug\net6.0\ref\Dishwasher.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\bin\Debug\net6.0\VetParking.exe
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\bin\Debug\net6.0\VetParking.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\bin\Debug\net6.0\VetParking.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\bin\Debug\net6.0\VetParking.dll
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\bin\Debug\net6.0\VetParking.pdb
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.dll
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\refint\VetParking.dll
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.pdb
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\VetParking.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\VetParking\obj\Debug\net6.0\ref\VetParking.dll

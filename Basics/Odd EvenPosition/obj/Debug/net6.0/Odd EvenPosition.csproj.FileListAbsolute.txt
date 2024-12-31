@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\bin\Debug\net6.0\Odd EvenPosition.exe
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\bin\Debug\net6.0\Odd EvenPosition.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\bin\Debug\net6.0\Odd EvenPosition.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\bin\Debug\net6.0\Odd EvenPosition.dll
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\bin\Debug\net6.0\Odd EvenPosition.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.dll
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\refint\Odd EvenPosition.dll
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.pdb
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\Odd EvenPosition.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\Odd EvenPosition\obj\Debug\net6.0\ref\Odd EvenPosition.dll

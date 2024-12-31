@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\bin\Debug\net6.0\ChallengeWedding.exe
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\bin\Debug\net6.0\ChallengeWedding.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\bin\Debug\net6.0\ChallengeWedding.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\bin\Debug\net6.0\ChallengeWedding.dll
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\bin\Debug\net6.0\ChallengeWedding.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.dll
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\refint\ChallengeWedding.dll
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.pdb
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ChallengeWedding.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\ChallengeWedding\obj\Debug\net6.0\ref\ChallengeWedding.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\bin\Debug\net6.0\rabotna.exe
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\bin\Debug\net6.0\rabotna.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\bin\Debug\net6.0\rabotna.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\bin\Debug\net6.0\rabotna.dll
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\bin\Debug\net6.0\rabotna.pdb
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.dll
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\refint\rabotna.dll
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.pdb
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\rabotna.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\rabotna\obj\Debug\net6.0\ref\rabotna.dll

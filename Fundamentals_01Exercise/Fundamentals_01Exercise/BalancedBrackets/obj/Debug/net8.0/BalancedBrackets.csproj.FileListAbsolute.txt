@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\bin\Debug\net8.0\BalancedBrackets.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\bin\Debug\net8.0\BalancedBrackets.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\bin\Debug\net8.0\BalancedBrackets.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\bin\Debug\net8.0\BalancedBrackets.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\bin\Debug\net8.0\BalancedBrackets.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\refint\BalancedBrackets.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\BalancedBrackets.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\BalancedBrackets\obj\Debug\net8.0\ref\BalancedBrackets.dll

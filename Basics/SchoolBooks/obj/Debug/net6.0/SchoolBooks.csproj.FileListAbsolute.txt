@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\bin\Debug\net6.0\SchoolBooks.exe
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\bin\Debug\net6.0\SchoolBooks.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\bin\Debug\net6.0\SchoolBooks.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\bin\Debug\net6.0\SchoolBooks.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\bin\Debug\net6.0\SchoolBooks.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\refint\SchoolBooks.dll
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.pdb
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\SchoolBooks.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\SchoolBooks\obj\Debug\net6.0\ref\SchoolBooks.dll

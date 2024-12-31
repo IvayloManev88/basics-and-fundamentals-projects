@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.exe
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.dll
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\bin\Debug\net6.0\UniquePinCodes.pdb
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.dll
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\refint\UniquePinCodes.dll
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.pdb
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\UniquePinCodes.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\UniquePinCodes\obj\Debug\net6.0\ref\UniquePinCodes.dll

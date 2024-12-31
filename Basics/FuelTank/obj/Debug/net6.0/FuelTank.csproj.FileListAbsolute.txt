@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\bin\Debug\net6.0\FuelTank.exe
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\bin\Debug\net6.0\FuelTank.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\bin\Debug\net6.0\FuelTank.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\bin\Debug\net6.0\FuelTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\bin\Debug\net6.0\FuelTank.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\refint\FuelTank.dll
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.pdb
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\FuelTank.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\FuelTank\obj\Debug\net6.0\ref\FuelTank.dll

@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\bin\Debug\net6.0\BackToThePast.exe
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\bin\Debug\net6.0\BackToThePast.deps.json
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\bin\Debug\net6.0\BackToThePast.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\bin\Debug\net6.0\BackToThePast.dll
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\bin\Debug\net6.0\BackToThePast.pdb
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.dll
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\refint\BackToThePast.dll
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.pdb
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\BackToThePast.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Basics\BackToThePast\obj\Debug\net6.0\ref\BackToThePast.dll

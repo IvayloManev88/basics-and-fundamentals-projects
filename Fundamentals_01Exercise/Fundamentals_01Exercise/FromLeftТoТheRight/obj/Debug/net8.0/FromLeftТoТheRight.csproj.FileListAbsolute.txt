@@ -1,0 +1,14 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\bin\Debug\net8.0\FromLeftТoТheRight.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\bin\Debug\net8.0\FromLeftТoТheRight.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\bin\Debug\net8.0\FromLeftТoТheRight.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\bin\Debug\net8.0\FromLeftТoТheRight.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\bin\Debug\net8.0\FromLeftТoТheRight.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\refint\FromLeftТoТheRight.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\FromLeftТoТheRight.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FromLeftТoТheRight\obj\Debug\net8.0\ref\FromLeftТoТheRight.dll
