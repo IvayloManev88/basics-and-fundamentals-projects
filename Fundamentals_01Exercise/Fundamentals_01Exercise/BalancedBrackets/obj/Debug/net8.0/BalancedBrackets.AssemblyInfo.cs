@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BalancedBrackets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77f36d1ac6bbc3f97cf60f33fe3836fade8e827a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BalancedBrackets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BalancedBrackets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
