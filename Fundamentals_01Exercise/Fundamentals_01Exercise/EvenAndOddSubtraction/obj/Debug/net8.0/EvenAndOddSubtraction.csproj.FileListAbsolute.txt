@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\refint\EvenAndOddSubtraction.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EvenAndOddSubtraction\obj\Debug\net8.0\ref\EvenAndOddSubtraction.dll

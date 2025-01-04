@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\bin\Debug\net8.0\EqualArrays.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\bin\Debug\net8.0\EqualArrays.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\bin\Debug\net8.0\EqualArrays.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\bin\Debug\net8.0\EqualArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\bin\Debug\net8.0\EqualArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\refint\EqualArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\EqualArrays.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\EqualArrays\obj\Debug\net8.0\ref\EqualArrays.dll

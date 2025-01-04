@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\bin\Debug\net8.0\PrintNumbersInReverseOrder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\refint\PrintNumbersInReverseOrder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PrintNumbersInReverseOrder\obj\Debug\net8.0\ref\PrintNumbersInReverseOrder.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\bin\Debug\net8.0\TopIntegers.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\bin\Debug\net8.0\TopIntegers.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\bin\Debug\net8.0\TopIntegers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\bin\Debug\net8.0\TopIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\bin\Debug\net8.0\TopIntegers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\refint\TopIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\TopIntegers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\TopIntegers\obj\Debug\net8.0\ref\TopIntegers.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\bin\Debug\net8.0\ZigZagArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\refint\ZigZagArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ZigZagArrays.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ZigZagArrays\obj\Debug\net8.0\ref\ZigZagArrays.dll

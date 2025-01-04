@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\bin\Debug\net8.0\ReverseArrayOfStringsV2.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\bin\Debug\net8.0\ReverseArrayOfStringsV2.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\bin\Debug\net8.0\ReverseArrayOfStringsV2.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\bin\Debug\net8.0\ReverseArrayOfStringsV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\bin\Debug\net8.0\ReverseArrayOfStringsV2.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\refint\ReverseArrayOfStringsV2.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ReverseArrayOfStringsV2.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ReverseArrayOfStringsV2\obj\Debug\net8.0\ref\ReverseArrayOfStringsV2.dll

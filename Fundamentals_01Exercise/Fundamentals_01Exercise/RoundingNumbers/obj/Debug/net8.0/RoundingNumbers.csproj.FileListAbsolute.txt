@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\bin\Debug\net8.0\RoundingNumbers.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\bin\Debug\net8.0\RoundingNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\bin\Debug\net8.0\RoundingNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\bin\Debug\net8.0\RoundingNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\bin\Debug\net8.0\RoundingNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\refint\RoundingNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\RoundingNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RoundingNumbers\obj\Debug\net8.0\ref\RoundingNumbers.dll

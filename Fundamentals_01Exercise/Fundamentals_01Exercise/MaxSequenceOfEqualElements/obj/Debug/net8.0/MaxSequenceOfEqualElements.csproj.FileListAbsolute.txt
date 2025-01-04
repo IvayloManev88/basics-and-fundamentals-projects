@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\refint\MaxSequenceOfEqualElements.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MaxSequenceOfEqualElements\obj\Debug\net8.0\ref\MaxSequenceOfEqualElements.dll
