@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\bin\Debug\net8.0\CharactersInRange.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\bin\Debug\net8.0\CharactersInRange.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\bin\Debug\net8.0\CharactersInRange.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\bin\Debug\net8.0\CharactersInRange.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\bin\Debug\net8.0\CharactersInRange.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\refint\CharactersInRange.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\CharactersInRange.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CharactersInRange\obj\Debug\net8.0\ref\CharactersInRange.dll

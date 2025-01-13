@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\bin\Debug\net8.0\LadyBugs.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\bin\Debug\net8.0\LadyBugs.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\bin\Debug\net8.0\LadyBugs.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\bin\Debug\net8.0\LadyBugs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\bin\Debug\net8.0\LadyBugs.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\refint\LadyBugs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\LadyBugs.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\LadyBugs\obj\Debug\net8.0\ref\LadyBugs.dll

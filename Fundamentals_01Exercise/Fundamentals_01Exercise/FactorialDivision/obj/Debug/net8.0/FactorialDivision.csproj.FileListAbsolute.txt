@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\refint\FactorialDivision.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\FactorialDivision\obj\Debug\net8.0\ref\FactorialDivision.dll

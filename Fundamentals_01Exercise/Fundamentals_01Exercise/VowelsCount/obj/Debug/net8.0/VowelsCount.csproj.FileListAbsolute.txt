@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\bin\Debug\net8.0\VowelsCount.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\bin\Debug\net8.0\VowelsCount.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\bin\Debug\net8.0\VowelsCount.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\bin\Debug\net8.0\VowelsCount.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\bin\Debug\net8.0\VowelsCount.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\refint\VowelsCount.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\VowelsCount.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\VowelsCount\obj\Debug\net8.0\ref\VowelsCount.dll

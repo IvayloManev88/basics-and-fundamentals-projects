@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\bin\Debug\net8.0\Kamino Factory.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\bin\Debug\net8.0\Kamino Factory.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\bin\Debug\net8.0\Kamino Factory.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\bin\Debug\net8.0\Kamino Factory.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\bin\Debug\net8.0\Kamino Factory.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\refint\Kamino Factory.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\Kamino Factory.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\Kamino Factory\obj\Debug\net8.0\ref\Kamino Factory.dll

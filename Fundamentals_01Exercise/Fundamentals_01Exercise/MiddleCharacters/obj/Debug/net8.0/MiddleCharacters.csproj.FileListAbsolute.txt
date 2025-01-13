@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\bin\Debug\net8.0\MiddleCharacters.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\bin\Debug\net8.0\MiddleCharacters.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\bin\Debug\net8.0\MiddleCharacters.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\bin\Debug\net8.0\MiddleCharacters.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\bin\Debug\net8.0\MiddleCharacters.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\refint\MiddleCharacters.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\MiddleCharacters.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\MiddleCharacters\obj\Debug\net8.0\ref\MiddleCharacters.dll

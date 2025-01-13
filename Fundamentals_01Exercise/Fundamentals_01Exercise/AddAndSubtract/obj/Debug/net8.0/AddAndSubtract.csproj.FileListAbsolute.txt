@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\bin\Debug\net8.0\AddAndSubtract.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\refint\AddAndSubtract.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\AddAndSubtract.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AddAndSubtract\obj\Debug\net8.0\ref\AddAndSubtract.dll

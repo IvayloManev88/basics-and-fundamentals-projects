@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\bin\Debug\net8.0\PalindromeIntegers.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\bin\Debug\net8.0\PalindromeIntegers.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\bin\Debug\net8.0\PalindromeIntegers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\bin\Debug\net8.0\PalindromeIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\bin\Debug\net8.0\PalindromeIntegers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\refint\PalindromeIntegers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\PalindromeIntegers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PalindromeIntegers\obj\Debug\net8.0\ref\PalindromeIntegers.dll

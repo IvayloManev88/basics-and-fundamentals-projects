@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\bin\Debug\net8.0\SmallestOfThreeNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\refint\SmallestOfThreeNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SmallestOfThreeNumbers\obj\Debug\net8.0\ref\SmallestOfThreeNumbers.dll

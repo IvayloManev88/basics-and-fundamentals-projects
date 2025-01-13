@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\bin\Debug\net8.0\ArrayManipulator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\refint\ArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ArrayManipulator.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayManipulator\obj\Debug\net8.0\ref\ArrayManipulator.dll

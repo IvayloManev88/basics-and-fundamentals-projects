@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\refint\NxNMatrix.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\NxNMatrix\obj\Debug\net8.0\ref\NxNMatrix.dll
