@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\bin\Debug\net8.0\ComputerStore.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\bin\Debug\net8.0\ComputerStore.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\bin\Debug\net8.0\ComputerStore.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\bin\Debug\net8.0\ComputerStore.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\bin\Debug\net8.0\ComputerStore.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\refint\ComputerStore.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ComputerStore.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ComputerStore\obj\Debug\net8.0\ref\ComputerStore.dll

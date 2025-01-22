@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\bin\Debug\net8.0\RemoveNegativesAndReverse.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\bin\Debug\net8.0\RemoveNegativesAndReverse.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\bin\Debug\net8.0\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\bin\Debug\net8.0\RemoveNegativesAndReverse.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\bin\Debug\net8.0\RemoveNegativesAndReverse.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\refint\RemoveNegativesAndReverse.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\RemoveNegativesAndReverse\obj\Debug\net8.0\ref\RemoveNegativesAndReverse.dll

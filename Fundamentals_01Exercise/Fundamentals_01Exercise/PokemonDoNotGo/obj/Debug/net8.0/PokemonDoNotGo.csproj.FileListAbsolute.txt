@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\bin\Debug\net8.0\PokemonDoNotGo.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\bin\Debug\net8.0\PokemonDoNotGo.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\bin\Debug\net8.0\PokemonDoNotGo.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\bin\Debug\net8.0\PokemonDoNotGo.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\bin\Debug\net8.0\PokemonDoNotGo.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\refint\PokemonDoNotGo.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\PokemonDoNotGo.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\PokemonDoNotGo\obj\Debug\net8.0\ref\PokemonDoNotGo.dll

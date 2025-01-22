@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\bin\Debug\net8.0\SumAdjacentEqualNumbers.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\bin\Debug\net8.0\SumAdjacentEqualNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\bin\Debug\net8.0\SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\bin\Debug\net8.0\SumAdjacentEqualNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\bin\Debug\net8.0\SumAdjacentEqualNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\SumAdjacentEqualNumbers.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\SumAdjacentEqualNumbers.dll

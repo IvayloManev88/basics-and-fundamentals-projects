@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\bin\Debug\net8.0\GaussTrick.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\bin\Debug\net8.0\GaussTrick.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\bin\Debug\net8.0\GaussTrick.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\bin\Debug\net8.0\GaussTrick.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\bin\Debug\net8.0\GaussTrick.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\refint\GaussTrick.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\GaussTrick.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\GaussTrick\obj\Debug\net8.0\ref\GaussTrick.dll

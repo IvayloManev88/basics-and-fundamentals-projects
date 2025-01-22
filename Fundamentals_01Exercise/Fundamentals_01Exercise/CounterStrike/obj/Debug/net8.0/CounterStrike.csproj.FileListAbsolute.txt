@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\bin\Debug\net8.0\CounterStrike.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\bin\Debug\net8.0\CounterStrike.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\bin\Debug\net8.0\CounterStrike.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\bin\Debug\net8.0\CounterStrike.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\bin\Debug\net8.0\CounterStrike.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\refint\CounterStrike.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\CounterStrike.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\CounterStrike\obj\Debug\net8.0\ref\CounterStrike.dll

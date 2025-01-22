@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\refint\AnonymousThreat.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\AnonymousThreat\obj\Debug\net8.0\ref\AnonymousThreat.dll

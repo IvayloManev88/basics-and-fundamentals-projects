@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\bin\Debug\net8.0\SoftUniCoursePlanning.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\bin\Debug\net8.0\SoftUniCoursePlanning.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\bin\Debug\net8.0\SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\bin\Debug\net8.0\SoftUniCoursePlanning.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\bin\Debug\net8.0\SoftUniCoursePlanning.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\refint\SoftUniCoursePlanning.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniCoursePlanning\obj\Debug\net8.0\ref\SoftUniCoursePlanning.dll

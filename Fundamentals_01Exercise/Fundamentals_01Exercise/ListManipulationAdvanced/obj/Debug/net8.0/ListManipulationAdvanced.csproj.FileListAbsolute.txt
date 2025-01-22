@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\bin\Debug\net8.0\ListManipulationAdvanced.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\bin\Debug\net8.0\ListManipulationAdvanced.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\bin\Debug\net8.0\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\bin\Debug\net8.0\ListManipulationAdvanced.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\bin\Debug\net8.0\ListManipulationAdvanced.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\refint\ListManipulationAdvanced.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListManipulationAdvanced\obj\Debug\net8.0\ref\ListManipulationAdvanced.dll

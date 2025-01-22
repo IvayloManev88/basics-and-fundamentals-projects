@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F920347-7142-4B84-8FAF-5FACFEC87114}|ArrayManipulator\\ArrayManipulator.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F920347-7142-4B84-8FAF-5FACFEC87114}|ArrayManipulator\\ArrayManipulator.csproj|solutionrelative:arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C511BB7C-0F76-45CB-AC05-293D1A2C195B}|CounterStrike\\CounterStrike.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\counterstrike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C511BB7C-0F76-45CB-AC05-293D1A2C195B}|CounterStrike\\CounterStrike.csproj|solutionrelative:counterstrike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C663B-F924-4818-9379-09E6F4BCF3BE}|ShoppingList\\ShoppingList.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C663B-F924-4818-9379-09E6F4BCF3BE}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C11F9C-9871-49D0-9AB5-ABD929A49172}|MemoryGame\\MemoryGame.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C11F9C-9871-49D0-9AB5-ABD929A49172}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ED99F7-B419-46CE-963E-8D8C161E5400}|ComputerStore\\ComputerStore.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ED99F7-B419-46CE-963E-8D8C161E5400}|ComputerStore\\ComputerStore.csproj|solutionrelative:computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79D1D43-0385-41D2-B0F1-85E1E1E42B2F}|SoftUniCoursePlanning\\SoftUniCoursePlanning.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79D1D43-0385-41D2-B0F1-85E1E1E42B2F}|SoftUniCoursePlanning\\SoftUniCoursePlanning.csproj|solutionrelative:softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762C74-BD9A-4B69-A2A3-14344C723C19}|PokemonDoNotGo\\PokemonDoNotGo.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\pokemondonotgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D762C74-BD9A-4B69-A2A3-14344C723C19}|PokemonDoNotGo\\PokemonDoNotGo.csproj|solutionrelative:pokemondonotgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23A4CE6-497E-42CC-8DAA-B56DE1B92FBA}|AnonymousThreat\\AnonymousThreat.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23A4CE6-497E-42CC-8DAA-B56DE1B92FBA}|AnonymousThreat\\AnonymousThreat.csproj|solutionrelative:anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C37560-BFE4-4B7E-A3C1-9C0E9C27124A}|CardsGame\\CardsGame.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C37560-BFE4-4B7E-A3C1-9C0E9C27124A}|CardsGame\\CardsGame.csproj|solutionrelative:cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8857C-55A9-4DA1-8F66-A0393A7703C2}|BombNumbers\\BombNumbers.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8857C-55A9-4DA1-8F66-A0393A7703C2}|BombNumbers\\BombNumbers.csproj|solutionrelative:bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE9E677-9B8A-4248-84F9-F398A074B2ED}|ListOperations\\ListOperations.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE9E677-9B8A-4248-84F9-F398A074B2ED}|ListOperations\\ListOperations.csproj|solutionrelative:listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7EDFB7-20F5-4395-BE7E-DCC95278B374}|HouseParty\\HouseParty.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7EDFB7-20F5-4395-BE7E-DCC95278B374}|HouseParty\\HouseParty.csproj|solutionrelative:houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6384536A-FA70-43F1-BE47-3E978979D063}|ChangeList\\ChangeList.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6384536A-FA70-43F1-BE47-3E978979D063}|ChangeList\\ChangeList.csproj|solutionrelative:changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A348E5-C4F3-40ED-98A2-4C6D3385E5B4}|TrainList\\TrainList.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\trainlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A348E5-C4F3-40ED-98A2-4C6D3385E5B4}|TrainList\\TrainList.csproj|solutionrelative:trainlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9249926D-68ED-467A-AA05-E42EA756D4C2}|PascalTriangle\\PascalTriangle.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9249926D-68ED-467A-AA05-E42EA756D4C2}|PascalTriangle\\PascalTriangle.csproj|solutionrelative:pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF76FC3-F0D6-4770-8F8F-51A3E726684C}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF76FC3-F0D6-4770-8F8F-51A3E726684C}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|solutionrelative:listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF76FC3-F0D6-4770-8F8F-51A3E726684C}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\listmanipulationadvanced\\listmanipulationadvanced.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EF76FC3-F0D6-4770-8F8F-51A3E726684C}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|solutionrelative:listmanipulationadvanced\\listmanipulationadvanced.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4592DCA-AE38-40D3-AC3B-20BB8CDFA758}|TopNumber\\TopNumber.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4592DCA-AE38-40D3-AC3B-20BB8CDFA758}|TopNumber\\TopNumber.csproj|solutionrelative:topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BBD809-BC71-411C-B3CA-1188B8BDE8BE}|ListManipulationBasics\\ListManipulationBasics.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BBD809-BC71-411C-B3CA-1188B8BDE8BE}|ListManipulationBasics\\ListManipulationBasics.csproj|solutionrelative:listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F920347-7142-4B84-8FAF-5FACFEC87114}|ArrayManipulator\\ArrayManipulator.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F920347-7142-4B84-8FAF-5FACFEC87114}|ArrayManipulator\\ArrayManipulator.csproj|solutionrelative:arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C403EB9B-CAB6-4C01-8575-1A7E1258465B}|RemoveNegativesAndReverse\\RemoveNegativesAndReverse.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C403EB9B-CAB6-4C01-8575-1A7E1258465B}|RemoveNegativesAndReverse\\RemoveNegativesAndReverse.csproj|solutionrelative:removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49093ACD-8032-44F3-9F6F-CDAAAF86ABD4}|ListOfProducts\\ListOfProducts.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49093ACD-8032-44F3-9F6F-CDAAAF86ABD4}|ListOfProducts\\ListOfProducts.csproj|solutionrelative:listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB280CB-85E6-4265-8209-FEC592A94A3A}|MergingLists\\MergingLists.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB280CB-85E6-4265-8209-FEC592A94A3A}|MergingLists\\MergingLists.csproj|solutionrelative:merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB6C9B1-E0EC-426A-B0EB-E39792FED1EA}|GaussTrick\\GaussTrick.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB6C9B1-E0EC-426A-B0EB-E39792FED1EA}|GaussTrick\\GaussTrick.csproj|solutionrelative:gausstrick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82901A75-31D7-4901-84A1-E099CA255950}|SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82901A75-31D7-4901-84A1-E099CA255950}|SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj|solutionrelative:sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12454710-6916-4DC4-9B24-974477545507}|PalindromeIntegers\\PalindromeIntegers.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_01exercise\\fundamentals_01exercise\\palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +158,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\TopNumber\\Program.cs",
               "RelativeDocumentMoniker": "TopNumber\\Program.cs",
@@ -79,25 +167,290 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T20:15:02.861Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ArrayManipulator\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayManipulator\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ArrayManipulator\\Program.cs",
-              "RelativeToolTip": "ArrayManipulator\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CounterStrike\\Program.cs",
+              "RelativeDocumentMoniker": "CounterStrike\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CounterStrike\\Program.cs",
+              "RelativeToolTip": "CounterStrike\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:09:22.867Z",
+              "WhenOpened": "2025-01-21T21:15:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ShoppingList\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ShoppingList\\Program.cs",
+              "RelativeToolTip": "ShoppingList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:58:00.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\MemoryGame\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\MemoryGame\\Program.cs",
+              "RelativeToolTip": "MemoryGame\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:50:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ComputerStore\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ComputerStore\\Program.cs",
+              "RelativeToolTip": "ComputerStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:21:49.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\SoftUniCoursePlanning\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniCoursePlanning\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\SoftUniCoursePlanning\\Program.cs",
+              "RelativeToolTip": "SoftUniCoursePlanning\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:10:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PokemonDoNotGo\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonDoNotGo\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PokemonDoNotGo\\Program.cs",
+              "RelativeToolTip": "PokemonDoNotGo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:19:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\AnonymousThreat\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousThreat\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\AnonymousThreat\\Program.cs",
+              "RelativeToolTip": "AnonymousThreat\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:15:43.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CardsGame\\Program.cs",
+              "RelativeToolTip": "CardsGame\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:30:48.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\BombNumbers\\Program.cs",
+              "RelativeToolTip": "BombNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:09:19.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListOperations\\Program.cs",
+              "RelativeToolTip": "ListOperations\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:24:52.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\HouseParty\\Program.cs",
+              "RelativeToolTip": "HouseParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:10:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ChangeList\\Program.cs",
+              "RelativeToolTip": "ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:42:04.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\TrainList\\Program.cs",
+              "RelativeDocumentMoniker": "TrainList\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\TrainList\\Program.cs",
+              "RelativeToolTip": "TrainList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:37:20.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListManipulationAdvanced.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationAdvanced\\ListManipulationAdvanced.csproj",
+              "RelativeDocumentMoniker": "ListManipulationAdvanced\\ListManipulationAdvanced.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationAdvanced\\ListManipulationAdvanced.csproj",
+              "RelativeToolTip": "ListManipulationAdvanced\\ListManipulationAdvanced.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T22:43:03.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PascalTriangle\\Program.cs",
+              "RelativeToolTip": "PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:24:06.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:45:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:34:49.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\RemoveNegativesAndReverse\\Program.cs",
+              "RelativeToolTip": "RemoveNegativesAndReverse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:31:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "ListOfProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ListOfProducts\\Program.cs",
+              "RelativeToolTip": "ListOfProducts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:24:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\MergingLists\\Program.cs",
+              "RelativeToolTip": "MergingLists\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:09:21.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\GaussTrick\\Program.cs",
+              "RelativeDocumentMoniker": "GaussTrick\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\GaussTrick\\Program.cs",
+              "RelativeToolTip": "GaussTrick\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:03:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:49:11.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\ArrayManipulator\\Program.cs",
+              "RelativeToolTip": "ArrayManipulator\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAALoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:09:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PalindromeIntegers\\Program.cs",
               "RelativeDocumentMoniker": "PalindromeIntegers\\Program.cs",
@@ -109,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\FactorialDivision\\Program.cs",
               "RelativeDocumentMoniker": "FactorialDivision\\Program.cs",
@@ -121,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\NxNMatrix\\Program.cs",
               "RelativeDocumentMoniker": "NxNMatrix\\Program.cs",
@@ -133,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\MiddleCharacters\\Program.cs",
               "RelativeDocumentMoniker": "MiddleCharacters\\Program.cs",
@@ -145,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\AddAndSubtract\\Program.cs",
               "RelativeDocumentMoniker": "AddAndSubtract\\Program.cs",
@@ -157,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\PasswordValidator\\Program.cs",
               "RelativeDocumentMoniker": "PasswordValidator\\Program.cs",
@@ -169,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CharactersInRangeV2\\Program.cs",
               "RelativeDocumentMoniker": "CharactersInRangeV2\\Program.cs",
@@ -181,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\CharactersInRange\\Program.cs",
               "RelativeDocumentMoniker": "CharactersInRange\\Program.cs",
@@ -193,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\VowelsCount\\Program.cs",
               "RelativeDocumentMoniker": "VowelsCount\\Program.cs",
@@ -205,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\SmallestOfThreeNumbers\\Program.cs",
               "RelativeDocumentMoniker": "SmallestOfThreeNumbers\\Program.cs",
@@ -217,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\LadyBugs\\Program.cs",
               "RelativeDocumentMoniker": "LadyBugs\\Program.cs",
@@ -229,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\Kamino Factory\\Program.cs",
               "RelativeDocumentMoniker": "Kamino Factory\\Program.cs",

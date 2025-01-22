@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\bin\Debug\net8.0\ListOfProducts.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\bin\Debug\net8.0\ListOfProducts.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\bin\Debug\net8.0\ListOfProducts.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\bin\Debug\net8.0\ListOfProducts.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\bin\Debug\net8.0\ListOfProducts.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\refint\ListOfProducts.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ListOfProducts.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ListOfProducts\obj\Debug\net8.0\ref\ListOfProducts.dll
