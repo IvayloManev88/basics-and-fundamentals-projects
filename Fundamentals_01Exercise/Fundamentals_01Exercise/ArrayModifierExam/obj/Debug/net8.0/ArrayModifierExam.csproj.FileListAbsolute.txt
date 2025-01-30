@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\bin\Debug\net8.0\ArrayModifierExam.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\bin\Debug\net8.0\ArrayModifierExam.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\bin\Debug\net8.0\ArrayModifierExam.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\bin\Debug\net8.0\ArrayModifierExam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\bin\Debug\net8.0\ArrayModifierExam.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\refint\ArrayModifierExam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ArrayModifierExam.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\ArrayModifierExam\obj\Debug\net8.0\ref\ArrayModifierExam.dll

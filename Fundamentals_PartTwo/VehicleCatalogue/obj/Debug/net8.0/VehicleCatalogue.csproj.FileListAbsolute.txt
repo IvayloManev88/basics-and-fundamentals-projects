@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\bin\Debug\net8.0\VehicleCatalogue.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\bin\Debug\net8.0\VehicleCatalogue.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\bin\Debug\net8.0\VehicleCatalogue.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\bin\Debug\net8.0\VehicleCatalogue.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\bin\Debug\net8.0\VehicleCatalogue.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\refint\VehicleCatalogue.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\VehicleCatalogue.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue\obj\Debug\net8.0\ref\VehicleCatalogue.dll

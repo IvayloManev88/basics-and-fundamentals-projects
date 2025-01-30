@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\bin\Debug\net8.0\Songs.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\bin\Debug\net8.0\Songs.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\bin\Debug\net8.0\Songs.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\bin\Debug\net8.0\Songs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\bin\Debug\net8.0\Songs.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\refint\Songs.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\Songs.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Songs\obj\Debug\net8.0\ref\Songs.dll

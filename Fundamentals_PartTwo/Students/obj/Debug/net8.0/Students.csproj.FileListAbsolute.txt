@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\bin\Debug\net8.0\Students.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\bin\Debug\net8.0\Students.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students\obj\Debug\net8.0\ref\Students.dll

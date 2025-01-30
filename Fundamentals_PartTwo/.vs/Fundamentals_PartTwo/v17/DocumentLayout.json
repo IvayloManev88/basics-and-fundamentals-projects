@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28810139-D352-4BE0-A555-46202E81B75B}|Rounding\\Rounding.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\rounding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28810139-D352-4BE0-A555-46202E81B75B}|Rounding\\Rounding.csproj|solutionrelative:rounding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C35962F-D5DF-4526-A0AB-3B0DC1EB7681}|VehicleCatalogue\\VehicleCatalogue.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C35962F-D5DF-4526-A0AB-3B0DC1EB7681}|VehicleCatalogue\\VehicleCatalogue.csproj|solutionrelative:vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DB7A53-E693-4BAF-8F82-440CDD4B45A7}|StoreBoxes\\StoreBoxes.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DB7A53-E693-4BAF-8F82-440CDD4B45A7}|StoreBoxes\\StoreBoxes.csproj|solutionrelative:storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC227062-9E58-4C19-B5C2-43FAF668F818}|StudentsV2\\StudentsV2.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\studentsv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC227062-9E58-4C19-B5C2-43FAF668F818}|StudentsV2\\StudentsV2.csproj|solutionrelative:studentsv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271BE807-82C7-4E1A-A2D9-84BCD2C3F96C}|Students\\Students.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271BE807-82C7-4E1A-A2D9-84BCD2C3F96C}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC0C585-A654-40B4-9E31-DF7AEB2D80E7}|Songs\\Songs.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC0C585-A654-40B4-9E31-DF7AEB2D80E7}|Songs\\Songs.csproj|solutionrelative:songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41423C5C-ACE9-46CC-AF08-9808952BCD24}|BigFactorial\\BigFactorial.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41423C5C-ACE9-46CC-AF08-9808952BCD24}|BigFactorial\\BigFactorial.csproj|solutionrelative:bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD6E698-8137-4917-AC71-35398B060595}|RandomizeWords\\RandomizeWords.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD6E698-8137-4917-AC71-35398B060595}|RandomizeWords\\RandomizeWords.csproj|solutionrelative:randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Rounding\\Program.cs",
+              "RelativeDocumentMoniker": "Rounding\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Rounding\\Program.cs",
+              "RelativeToolTip": "Rounding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:28:51.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:07:00.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "StoreBoxes\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\StoreBoxes\\Program.cs",
+              "RelativeToolTip": "StoreBoxes\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:03:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\StudentsV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsV2\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\StudentsV2\\Program.cs",
+              "RelativeToolTip": "StudentsV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:19:44.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Students\\Program.cs",
+              "RelativeToolTip": "Students\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:34:40.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Songs\\Program.cs",
+              "RelativeDocumentMoniker": "Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\Songs\\Program.cs",
+              "RelativeToolTip": "Songs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:03:19.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\BigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "BigFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\BigFactorial\\Program.cs",
+              "RelativeToolTip": "BigFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:59:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "RandomizeWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\RandomizeWords\\Program.cs",
+              "RelativeToolTip": "RandomizeWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:46:32.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\bin\Debug\net8.0\Rounding.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\bin\Debug\net8.0\Rounding.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\bin\Debug\net8.0\Rounding.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\bin\Debug\net8.0\Rounding.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\bin\Debug\net8.0\Rounding.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\refint\Rounding.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\Rounding.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Rounding\obj\Debug\net8.0\ref\Rounding.dll

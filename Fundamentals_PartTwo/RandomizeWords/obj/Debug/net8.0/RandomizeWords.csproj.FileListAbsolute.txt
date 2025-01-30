@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\bin\Debug\net8.0\RandomizeWords.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\bin\Debug\net8.0\RandomizeWords.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\bin\Debug\net8.0\RandomizeWords.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\bin\Debug\net8.0\RandomizeWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\bin\Debug\net8.0\RandomizeWords.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\refint\RandomizeWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\RandomizeWords.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\RandomizeWords\obj\Debug\net8.0\ref\RandomizeWords.dll

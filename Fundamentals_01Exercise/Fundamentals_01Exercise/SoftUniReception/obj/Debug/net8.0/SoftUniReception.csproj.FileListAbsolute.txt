@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\bin\Debug\net8.0\SoftUniReception.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\bin\Debug\net8.0\SoftUniReception.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\bin\Debug\net8.0\SoftUniReception.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\bin\Debug\net8.0\SoftUniReception.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\bin\Debug\net8.0\SoftUniReception.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\refint\SoftUniReception.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\SoftUniReception.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\SoftUniReception\obj\Debug\net8.0\ref\SoftUniReception.dll
