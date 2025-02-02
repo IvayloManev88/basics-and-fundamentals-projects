@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\bin\Debug\net8.0\Articles.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\bin\Debug\net8.0\Articles.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\bin\Debug\net8.0\Articles.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\bin\Debug\net8.0\Articles.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\bin\Debug\net8.0\Articles.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\refint\Articles.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\Articles.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Articles\obj\Debug\net8.0\ref\Articles.dll

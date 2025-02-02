@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\bin\Debug\net8.0\VehicleCatalogue_Excercise.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\bin\Debug\net8.0\VehicleCatalogue_Excercise.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\bin\Debug\net8.0\VehicleCatalogue_Excercise.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\bin\Debug\net8.0\VehicleCatalogue_Excercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\bin\Debug\net8.0\VehicleCatalogue_Excercise.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\refint\VehicleCatalogue_Excercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\VehicleCatalogue_Excercise.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\VehicleCatalogue_Excercise\obj\Debug\net8.0\ref\VehicleCatalogue_Excercise.dll

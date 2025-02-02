@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\bin\Debug\net8.0\TeamworkProjects.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\bin\Debug\net8.0\TeamworkProjects.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\bin\Debug\net8.0\TeamworkProjects.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\bin\Debug\net8.0\TeamworkProjects.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\bin\Debug\net8.0\TeamworkProjects.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\refint\TeamworkProjects.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\TeamworkProjects.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TeamworkProjects\obj\Debug\net8.0\ref\TeamworkProjects.dll

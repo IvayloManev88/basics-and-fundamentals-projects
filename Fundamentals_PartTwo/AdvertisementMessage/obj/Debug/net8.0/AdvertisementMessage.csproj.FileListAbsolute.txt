@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\bin\Debug\net8.0\AdvertisementMessage.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\bin\Debug\net8.0\AdvertisementMessage.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\bin\Debug\net8.0\AdvertisementMessage.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\bin\Debug\net8.0\AdvertisementMessage.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\bin\Debug\net8.0\AdvertisementMessage.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\refint\AdvertisementMessage.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\AdvertisementMessage.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AdvertisementMessage\obj\Debug\net8.0\ref\AdvertisementMessage.dll

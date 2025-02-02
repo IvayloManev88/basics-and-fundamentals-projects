@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\bin\Debug\net8.0\Students_Exercise.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\bin\Debug\net8.0\Students_Exercise.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\bin\Debug\net8.0\Students_Exercise.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\bin\Debug\net8.0\Students_Exercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\bin\Debug\net8.0\Students_Exercise.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\refint\Students_Exercise.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\Students_Exercise.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Students_Exercise\obj\Debug\net8.0\ref\Students_Exercise.dll
