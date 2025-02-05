@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\bin\Debug\net8.0\AssociativeArrays.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\bin\Debug\net8.0\AssociativeArrays.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\bin\Debug\net8.0\AssociativeArrays.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\bin\Debug\net8.0\AssociativeArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\bin\Debug\net8.0\AssociativeArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\refint\AssociativeArrays.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\AssociativeArrays.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AssociativeArrays\obj\Debug\net8.0\ref\AssociativeArrays.dll

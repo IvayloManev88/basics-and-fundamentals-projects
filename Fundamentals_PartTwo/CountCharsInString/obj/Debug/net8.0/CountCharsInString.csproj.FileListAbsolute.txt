@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\bin\Debug\net8.0\CountCharsInString.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\bin\Debug\net8.0\CountCharsInString.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\bin\Debug\net8.0\CountCharsInString.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\bin\Debug\net8.0\CountCharsInString.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\bin\Debug\net8.0\CountCharsInString.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\refint\CountCharsInString.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\CountCharsInString.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CountCharsInString\obj\Debug\net8.0\ref\CountCharsInString.dll

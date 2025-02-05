@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\bin\Debug\net8.0\OddOccurrences.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\bin\Debug\net8.0\OddOccurrences.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\bin\Debug\net8.0\OddOccurrences.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\bin\Debug\net8.0\OddOccurrences.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\bin\Debug\net8.0\OddOccurrences.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\refint\OddOccurrences.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\OddOccurrences.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OddOccurrences\obj\Debug\net8.0\ref\OddOccurrences.dll

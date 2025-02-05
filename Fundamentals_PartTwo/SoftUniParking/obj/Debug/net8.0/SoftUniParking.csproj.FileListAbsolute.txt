@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\bin\Debug\net8.0\SoftUniParking.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\bin\Debug\net8.0\SoftUniParking.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\bin\Debug\net8.0\SoftUniParking.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\bin\Debug\net8.0\SoftUniParking.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\bin\Debug\net8.0\SoftUniParking.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\refint\SoftUniParking.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniParking\obj\Debug\net8.0\ref\SoftUniParking.dll

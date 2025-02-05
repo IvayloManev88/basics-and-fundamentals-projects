@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\bin\Debug\net8.0\AMinerTask.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\bin\Debug\net8.0\AMinerTask.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\bin\Debug\net8.0\AMinerTask.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\bin\Debug\net8.0\AMinerTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\bin\Debug\net8.0\AMinerTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\refint\AMinerTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\AMinerTask.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AMinerTask\obj\Debug\net8.0\ref\AMinerTask.dll

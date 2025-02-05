@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\bin\Debug\net8.0\WordFilter.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\bin\Debug\net8.0\WordFilter.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\bin\Debug\net8.0\WordFilter.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\bin\Debug\net8.0\WordFilter.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\bin\Debug\net8.0\WordFilter.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\refint\WordFilter.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\WordFilter.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\WordFilter\obj\Debug\net8.0\ref\WordFilter.dll
