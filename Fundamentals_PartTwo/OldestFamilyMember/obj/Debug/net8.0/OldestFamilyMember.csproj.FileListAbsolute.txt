@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\bin\Debug\net8.0\OldestFamilyMember.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\bin\Debug\net8.0\OldestFamilyMember.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\bin\Debug\net8.0\OldestFamilyMember.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\bin\Debug\net8.0\OldestFamilyMember.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\bin\Debug\net8.0\OldestFamilyMember.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\refint\OldestFamilyMember.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\OldestFamilyMember.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\OldestFamilyMember\obj\Debug\net8.0\ref\OldestFamilyMember.dll

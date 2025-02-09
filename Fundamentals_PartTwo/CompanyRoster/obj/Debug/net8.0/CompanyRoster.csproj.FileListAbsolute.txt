@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\bin\Debug\net8.0\CompanyRoster.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\bin\Debug\net8.0\CompanyRoster.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\bin\Debug\net8.0\CompanyRoster.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\bin\Debug\net8.0\CompanyRoster.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\bin\Debug\net8.0\CompanyRoster.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\refint\CompanyRoster.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\CompanyRoster.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\CompanyRoster\obj\Debug\net8.0\ref\CompanyRoster.dll

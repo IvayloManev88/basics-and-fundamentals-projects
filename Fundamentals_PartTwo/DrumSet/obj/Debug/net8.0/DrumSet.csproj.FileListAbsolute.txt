@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\bin\Debug\net8.0\DrumSet.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\bin\Debug\net8.0\DrumSet.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\bin\Debug\net8.0\DrumSet.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\bin\Debug\net8.0\DrumSet.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\bin\Debug\net8.0\DrumSet.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\refint\DrumSet.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\DrumSet.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DrumSet\obj\Debug\net8.0\ref\DrumSet.dll

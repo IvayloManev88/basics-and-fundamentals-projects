@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\bin\Debug\net8.0\MixedUpLists.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\bin\Debug\net8.0\MixedUpLists.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\bin\Debug\net8.0\MixedUpLists.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\bin\Debug\net8.0\MixedUpLists.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\bin\Debug\net8.0\MixedUpLists.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\refint\MixedUpLists.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\MixedUpLists.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MixedUpLists\obj\Debug\net8.0\ref\MixedUpLists.dll
