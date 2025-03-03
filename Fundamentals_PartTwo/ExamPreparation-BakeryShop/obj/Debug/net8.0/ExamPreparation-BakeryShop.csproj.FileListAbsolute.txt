@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\bin\Debug\net8.0\ExamPreparation-BakeryShop.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\bin\Debug\net8.0\ExamPreparation-BakeryShop.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\bin\Debug\net8.0\ExamPreparation-BakeryShop.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\bin\Debug\net8.0\ExamPreparation-BakeryShop.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\bin\Debug\net8.0\ExamPreparation-BakeryShop.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\refint\ExamPreparation-BakeryShop.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ExamPreparation-BakeryShop.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-BakeryShop\obj\Debug\net8.0\ref\ExamPreparation-BakeryShop.dll

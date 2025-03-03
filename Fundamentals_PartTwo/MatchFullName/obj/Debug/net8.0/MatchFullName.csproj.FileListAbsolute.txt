@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\bin\Debug\net8.0\MatchFullName.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\bin\Debug\net8.0\MatchFullName.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\bin\Debug\net8.0\MatchFullName.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\bin\Debug\net8.0\MatchFullName.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\bin\Debug\net8.0\MatchFullName.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\refint\MatchFullName.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\MatchFullName.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchFullName\obj\Debug\net8.0\ref\MatchFullName.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\bin\Debug\net8.0\02_Mid_Exam.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\bin\Debug\net8.0\02_Mid_Exam.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\bin\Debug\net8.0\02_Mid_Exam.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\bin\Debug\net8.0\02_Mid_Exam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\bin\Debug\net8.0\02_Mid_Exam.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\refint\02_Mid_Exam.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\02_Mid_Exam.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_01Exercise\Fundamentals_01Exercise\02_Mid_Exam\obj\Debug\net8.0\ref\02_Mid_Exam.dll

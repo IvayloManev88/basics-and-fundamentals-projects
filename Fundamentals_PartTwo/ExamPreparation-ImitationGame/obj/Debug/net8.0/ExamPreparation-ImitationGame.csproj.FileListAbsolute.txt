@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\bin\Debug\net8.0\ExamPreparation-ImitationGame.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\bin\Debug\net8.0\ExamPreparation-ImitationGame.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\bin\Debug\net8.0\ExamPreparation-ImitationGame.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\bin\Debug\net8.0\ExamPreparation-ImitationGame.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\bin\Debug\net8.0\ExamPreparation-ImitationGame.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\refint\ExamPreparation-ImitationGame.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ExamPreparation-ImitationGame.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ImitationGame\obj\Debug\net8.0\ref\ExamPreparation-ImitationGame.dll

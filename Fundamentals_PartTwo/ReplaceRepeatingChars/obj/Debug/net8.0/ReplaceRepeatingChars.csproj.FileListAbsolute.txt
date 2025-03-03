@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\bin\Debug\net8.0\ReplaceRepeatingChars.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\bin\Debug\net8.0\ReplaceRepeatingChars.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\bin\Debug\net8.0\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\bin\Debug\net8.0\ReplaceRepeatingChars.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\bin\Debug\net8.0\ReplaceRepeatingChars.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\refint\ReplaceRepeatingChars.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ReplaceRepeatingChars\obj\Debug\net8.0\ref\ReplaceRepeatingChars.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\bin\Debug\net8.0\Judge.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\bin\Debug\net8.0\Judge.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\bin\Debug\net8.0\Judge.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\bin\Debug\net8.0\Judge.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\bin\Debug\net8.0\Judge.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\refint\Judge.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\Judge.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Judge\obj\Debug\net8.0\ref\Judge.dll

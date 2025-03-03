@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\bin\Debug\net8.0\MatchPhoneNumber.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\bin\Debug\net8.0\MatchPhoneNumber.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\bin\Debug\net8.0\MatchPhoneNumber.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\bin\Debug\net8.0\MatchPhoneNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\bin\Debug\net8.0\MatchPhoneNumber.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\refint\MatchPhoneNumber.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\MatchPhoneNumber.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchPhoneNumber\obj\Debug\net8.0\ref\MatchPhoneNumber.dll

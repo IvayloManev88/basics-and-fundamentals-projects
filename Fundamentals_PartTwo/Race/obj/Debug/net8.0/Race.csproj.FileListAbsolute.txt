@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\bin\Debug\net8.0\Race.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\bin\Debug\net8.0\Race.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\bin\Debug\net8.0\Race.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\bin\Debug\net8.0\Race.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\bin\Debug\net8.0\Race.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\refint\Race.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\Race.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Race\obj\Debug\net8.0\ref\Race.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\bin\Debug\net8.0\ManOWar.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\bin\Debug\net8.0\ManOWar.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\bin\Debug\net8.0\ManOWar.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\bin\Debug\net8.0\ManOWar.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\bin\Debug\net8.0\ManOWar.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\refint\ManOWar.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ManOWar.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ManOWar\obj\Debug\net8.0\ref\ManOWar.dll

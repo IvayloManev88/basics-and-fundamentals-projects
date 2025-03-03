@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\03.Vacation\\03.Vacation.csproj",
-      "projectName": "03.Vacation",
-      "projectPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\03.Vacation\\03.Vacation.csproj",
+      "projectUniqueName": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\03.Vacation\\03Vacation.csproj",
+      "projectName": "03Vacation",
+      "projectPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\03.Vacation\\03Vacation.csproj",
       "packagesPath": "C:\\Users\\Armyman-PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\03.Vacation\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,9 +5,9 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Ages", "01_Student Information\01_Ages.csproj", "{D298D526-5DA6-443E-A96C-BC492430840C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Divison", "02.Divison\02.Divison.csproj", "{DFEE9E1B-F1AD-4292-96F6-D054FC05C1FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044Divison", "02.Divison\044Divison.csproj", "{DFEE9E1B-F1AD-4292-96F6-D054FC05C1FD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{1EC8C3BA-E133-4CB3-AFF3-39EC5DB61E7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Vacation", "03.Vacation\03Vacation.csproj", "{1EC8C3BA-E133-4CB3-AFF3-39EC5DB61E7D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{28AD4ECD-7EC9-4E8A-8B54-DEA9ADB23293}"
 EndProject
@@ -141,11 +141,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingList", "ShoppingLis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CounterStrike", "CounterStrike\CounterStrike.csproj", "{C511BB7C-0F76-45CB-AC05-293D1A2C195B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{AA730A16-691B-4D10-8320-F4A617862ECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniReception", "SoftUniReception\SoftUniReception.csproj", "{AA730A16-691B-4D10-8320-F4A617862ECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayModifierExam", "ArrayModifierExam\ArrayModifierExam.csproj", "{F9E0976A-7326-4718-90E9-F2DFAB26DA31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayModifierExam", "ArrayModifierExam\ArrayModifierExam.csproj", "{F9E0976A-7326-4718-90E9-F2DFAB26DA31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{D5A4126D-7641-48B1-8838-8B1DF1C57C52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{D5A4126D-7641-48B1-8838-8B1DF1C57C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Mid_Exam", "01_Mid_Exam\01_Mid_Exam.csproj", "{4131FCCD-168B-4100-8123-FE47565A921F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Mid_Exam", "02_Mid_Exam\02_Mid_Exam.csproj", "{8848DA2C-5AAB-4731-B565-487AD5312DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Mid_Exam", "03_Mid_Exam\03_Mid_Exam.csproj", "{608B346F-B798-4BE7-87BD-491B156B0F7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +447,18 @@ Global
 		{D5A4126D-7641-48B1-8838-8B1DF1C57C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A4126D-7641-48B1-8838-8B1DF1C57C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A4126D-7641-48B1-8838-8B1DF1C57C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4131FCCD-168B-4100-8123-FE47565A921F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4131FCCD-168B-4100-8123-FE47565A921F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4131FCCD-168B-4100-8123-FE47565A921F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4131FCCD-168B-4100-8123-FE47565A921F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8848DA2C-5AAB-4731-B565-487AD5312DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8848DA2C-5AAB-4731-B565-487AD5312DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8848DA2C-5AAB-4731-B565-487AD5312DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8848DA2C-5AAB-4731-B565-487AD5312DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608B346F-B798-4BE7-87BD-491B156B0F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608B346F-B798-4BE7-87BD-491B156B0F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608B346F-B798-4BE7-87BD-491B156B0F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608B346F-B798-4BE7-87BD-491B156B0F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

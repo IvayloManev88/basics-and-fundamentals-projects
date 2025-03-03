@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\bin\Debug\net8.0\SoftUniBarIncome.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\bin\Debug\net8.0\SoftUniBarIncome.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\bin\Debug\net8.0\SoftUniBarIncome.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\bin\Debug\net8.0\SoftUniBarIncome.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\bin\Debug\net8.0\SoftUniBarIncome.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\refint\SoftUniBarIncome.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\SoftUniBarIncome.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SoftUniBarIncome\obj\Debug\net8.0\ref\SoftUniBarIncome.dll

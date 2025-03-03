@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\bin\Debug\net8.0\MatchDates.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\bin\Debug\net8.0\MatchDates.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\bin\Debug\net8.0\MatchDates.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\bin\Debug\net8.0\MatchDates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\bin\Debug\net8.0\MatchDates.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\refint\MatchDates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\MatchDates.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MatchDates\obj\Debug\net8.0\ref\MatchDates.dll

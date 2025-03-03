@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63D88844-2D3A-4E12-8675-4DD0F4D8127F}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D88844-2D3A-4E12-8675-4DD0F4D8127F}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49F8AFAC-D86B-4730-B264-D3DC3518D7C9}|ExamPreparation-AdAstra\\ExamPreparation-AdAstra.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8AFAC-D86B-4730-B264-D3DC3518D7C9}|ExamPreparation-AdAstra\\ExamPreparation-AdAstra.csproj|solutionrelative:exampreparation-adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9584F8CE-C47F-4AE9-8328-7ACCB59B6F1C}|OldestFamilyMember\\OldestFamilyMember.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\oldestfamilymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9584F8CE-C47F-4AE9-8328-7ACCB59B6F1C}|OldestFamilyMember\\OldestFamilyMember.csproj|solutionrelative:oldestfamilymember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB7F0604-96A2-4C6C-BC2E-4D2920B42AFE}|ExamPreparation-DestinationMapper\\ExamPreparation-DestinationMapper.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7F0604-96A2-4C6C-BC2E-4D2920B42AFE}|ExamPreparation-DestinationMapper\\ExamPreparation-DestinationMapper.csproj|solutionrelative:exampreparation-destinationmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC905153-2F47-471B-84B8-917FB6322D4A}|RawData\\RawData.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC905153-2F47-471B-84B8-917FB6322D4A}|RawData\\RawData.csproj|solutionrelative:rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0786FA52-90C4-4B4D-ABBC-AC7A42BCA384}|ExamPreparation-Registration\\ExamPreparation-Registration.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0786FA52-90C4-4B4D-ABBC-AC7A42BCA384}|ExamPreparation-Registration\\ExamPreparation-Registration.csproj|solutionrelative:exampreparation-registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E88869BA-FBAD-44E3-84ED-2DBADC3735DD}|SpeedRacing\\SpeedRacing.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E88869BA-FBAD-44E3-84ED-2DBADC3735DD}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A88223F9-63AD-4A80-8E45-334E50697FFF}|ExamPreparation-BakeryShop\\ExamPreparation-BakeryShop.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88223F9-63AD-4A80-8E45-334E50697FFF}|ExamPreparation-BakeryShop\\ExamPreparation-BakeryShop.csproj|solutionrelative:exampreparation-bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE54B7B1-5298-4506-8204-B916BFE3017C}|TeamworkProjects\\TeamworkProjects.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE54B7B1-5298-4506-8204-B916BFE3017C}|TeamworkProjects\\TeamworkProjects.csproj|solutionrelative:teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9D20394-F859-4CB4-BB01-C1C37307C4D8}|VehicleCatalogue_Excercise\\VehicleCatalogue_Excercise.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\vehiclecatalogue_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D20394-F859-4CB4-BB01-C1C37307C4D8}|VehicleCatalogue_Excercise\\VehicleCatalogue_Excercise.csproj|solutionrelative:vehiclecatalogue_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E350D8E5-76B1-4442-B141-117D0A2AAA9A}|ExamPreparation-ImitationGame\\ExamPreparation-ImitationGame.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-imitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E350D8E5-76B1-4442-B141-117D0A2AAA9A}|ExamPreparation-ImitationGame\\ExamPreparation-ImitationGame.csproj|solutionrelative:exampreparation-imitationgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,76 +36,66 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ShoppingSpree\\Program.cs",
-              "RelativeDocumentMoniker": "ShoppingSpree\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ShoppingSpree\\Program.cs",
-              "RelativeToolTip": "ShoppingSpree\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCsAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-AdAstra\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-AdAstra\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-AdAstra\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-AdAstra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T20:28:48.764Z",
+              "WhenOpened": "2025-03-03T20:02:48.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\RawData\\Program.cs",
-              "RelativeDocumentMoniker": "RawData\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\RawData\\Program.cs",
-              "RelativeToolTip": "RawData\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ImitationGame\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-ImitationGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ImitationGame\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-ImitationGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:15:43.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\OldestFamilyMember\\Program.cs",
-              "RelativeDocumentMoniker": "OldestFamilyMember\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\OldestFamilyMember\\Program.cs",
-              "RelativeToolTip": "OldestFamilyMember\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:51:04.964Z",
+              "WhenOpened": "2025-03-03T19:43:32.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\SpeedRacing\\Program.cs",
-              "RelativeDocumentMoniker": "SpeedRacing\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\SpeedRacing\\Program.cs",
-              "RelativeToolTip": "SpeedRacing\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA1wDgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-BakeryShop\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-BakeryShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-BakeryShop\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-BakeryShop\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:44:20.814Z"
+              "WhenOpened": "2025-03-03T12:31:19.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\VehicleCatalogue_Excercise\\Program.cs",
-              "RelativeDocumentMoniker": "VehicleCatalogue_Excercise\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\VehicleCatalogue_Excercise\\Program.cs",
-              "RelativeToolTip": "VehicleCatalogue_Excercise\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wD0AAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-DestinationMapper\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-DestinationMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-DestinationMapper\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-DestinationMapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T21:02:12.066Z"
+              "WhenOpened": "2025-03-03T11:45:02.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\TeamworkProjects\\Program.cs",
-              "RelativeDocumentMoniker": "TeamworkProjects\\Program.cs",
-              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\TeamworkProjects\\Program.cs",
-              "RelativeToolTip": "TeamworkProjects\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwEQAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-Registration\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-Registration\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-Registration\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-Registration\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:17:07.198Z"
+              "WhenOpened": "2025-03-02T15:41:25.586Z",
+              "EditorCaption": ""
             }
           ]
         }

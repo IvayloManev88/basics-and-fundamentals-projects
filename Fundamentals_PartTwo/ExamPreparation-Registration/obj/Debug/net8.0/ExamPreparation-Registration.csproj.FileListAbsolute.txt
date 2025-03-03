@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\bin\Debug\net8.0\ExamPreparation-Registration.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\bin\Debug\net8.0\ExamPreparation-Registration.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\bin\Debug\net8.0\ExamPreparation-Registration.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\bin\Debug\net8.0\ExamPreparation-Registration.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\bin\Debug\net8.0\ExamPreparation-Registration.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\refint\ExamPreparation-Registration.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ExamPreparation-Registration.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Registration\obj\Debug\net8.0\ref\ExamPreparation-Registration.dll

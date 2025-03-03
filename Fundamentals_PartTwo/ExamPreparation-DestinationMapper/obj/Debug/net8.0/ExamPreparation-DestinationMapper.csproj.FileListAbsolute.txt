@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\bin\Debug\net8.0\ExamPreparation-DestinationMapper.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\bin\Debug\net8.0\ExamPreparation-DestinationMapper.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\bin\Debug\net8.0\ExamPreparation-DestinationMapper.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\bin\Debug\net8.0\ExamPreparation-DestinationMapper.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\bin\Debug\net8.0\ExamPreparation-DestinationMapper.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\refint\ExamPreparation-DestinationMapper.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ExamPreparation-DestinationMapper.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-DestinationMapper\obj\Debug\net8.0\ref\ExamPreparation-DestinationMapper.dll

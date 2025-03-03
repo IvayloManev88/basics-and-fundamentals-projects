@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\bin\Debug\net8.0\ExamPreparation-AdAstra.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\bin\Debug\net8.0\ExamPreparation-AdAstra.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\bin\Debug\net8.0\ExamPreparation-AdAstra.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\bin\Debug\net8.0\ExamPreparation-AdAstra.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\bin\Debug\net8.0\ExamPreparation-AdAstra.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\refint\ExamPreparation-AdAstra.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ExamPreparation-AdAstra.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-AdAstra\obj\Debug\net8.0\ref\ExamPreparation-AdAstra.dll

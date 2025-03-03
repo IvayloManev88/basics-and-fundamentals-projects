@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "02_Mid_Exam/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/02_Mid_Exam.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02_Mid_Exam.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "02_Mid_Exam/1.0.0": {
+      "type": "project",
+      "path": "../02_Mid_Exam/02_Mid_Exam.csproj",
+      "msbuildProject": "../02_Mid_Exam/02_Mid_Exam.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "02_Mid_Exam >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Armyman-PC\\.nuget\\packages\\": {}
@@ -13,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02.Divison\\02.Divison.csproj",
-      "projectName": "02.Divison",
-      "projectPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02.Divison\\02.Divison.csproj",
+      "projectUniqueName": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02.Divison\\044Divison.csproj",
+      "projectName": "044Divison",
+      "projectPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02.Divison\\044Divison.csproj",
       "packagesPath": "C:\\Users\\Armyman-PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02.Divison\\obj\\",
       "projectStyle": "PackageReference",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02_Mid_Exam\\02_Mid_Exam.csproj": {
+              "projectPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_01Exercise\\Fundamentals_01Exercise\\02_Mid_Exam\\02_Mid_Exam.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

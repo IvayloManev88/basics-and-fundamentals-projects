@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomizeWords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7188cf95978fb0d54a2dc00e1dacb662b32abc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e0ab1f3c79273b3f4981731296315ad86090e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomizeWords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomizeWords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
