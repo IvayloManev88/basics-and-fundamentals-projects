@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\bin\Debug\net8.0\Snowwhite.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\bin\Debug\net8.0\Snowwhite.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\bin\Debug\net8.0\Snowwhite.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\bin\Debug\net8.0\Snowwhite.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\bin\Debug\net8.0\Snowwhite.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\refint\Snowwhite.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\Snowwhite.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\Snowwhite\obj\Debug\net8.0\ref\Snowwhite.dll

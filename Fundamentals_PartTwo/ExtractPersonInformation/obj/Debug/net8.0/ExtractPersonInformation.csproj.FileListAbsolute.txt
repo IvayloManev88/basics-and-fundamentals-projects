@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\bin\Debug\net8.0\ExtractPersonInformation.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\bin\Debug\net8.0\ExtractPersonInformation.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\bin\Debug\net8.0\ExtractPersonInformation.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\bin\Debug\net8.0\ExtractPersonInformation.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\bin\Debug\net8.0\ExtractPersonInformation.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\refint\ExtractPersonInformation.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ExtractPersonInformation.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExtractPersonInformation\obj\Debug\net8.0\ref\ExtractPersonInformation.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\bin\Debug\net8.0\ExamPreparation-Pirates.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\bin\Debug\net8.0\ExamPreparation-Pirates.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\bin\Debug\net8.0\ExamPreparation-Pirates.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\bin\Debug\net8.0\ExamPreparation-Pirates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\bin\Debug\net8.0\ExamPreparation-Pirates.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\refint\ExamPreparation-Pirates.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ExamPreparation-Pirates.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-Pirates\obj\Debug\net8.0\ref\ExamPreparation-Pirates.dll

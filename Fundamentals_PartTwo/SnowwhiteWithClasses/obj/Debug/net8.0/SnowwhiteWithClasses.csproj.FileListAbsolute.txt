@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\bin\Debug\net8.0\SnowwhiteWithClasses.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\bin\Debug\net8.0\SnowwhiteWithClasses.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\bin\Debug\net8.0\SnowwhiteWithClasses.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\bin\Debug\net8.0\SnowwhiteWithClasses.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\bin\Debug\net8.0\SnowwhiteWithClasses.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\refint\SnowwhiteWithClasses.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\SnowwhiteWithClasses.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SnowwhiteWithClasses\obj\Debug\net8.0\ref\SnowwhiteWithClasses.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExamPreparation-Pirates/1.0.0": {
+        "runtime": {
+          "ExamPreparation-Pirates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamPreparation-Pirates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

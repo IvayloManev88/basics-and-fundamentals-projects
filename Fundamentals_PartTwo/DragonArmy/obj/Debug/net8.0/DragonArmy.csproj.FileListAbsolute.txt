@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\bin\Debug\net8.0\DragonArmy.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\bin\Debug\net8.0\DragonArmy.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\bin\Debug\net8.0\DragonArmy.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\bin\Debug\net8.0\DragonArmy.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\bin\Debug\net8.0\DragonArmy.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\refint\DragonArmy.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\DragonArmy.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\DragonArmy\obj\Debug\net8.0\ref\DragonArmy.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\bin\Debug\net8.0\AsciiSumator.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\bin\Debug\net8.0\AsciiSumator.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\bin\Debug\net8.0\AsciiSumator.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\bin\Debug\net8.0\AsciiSumator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\bin\Debug\net8.0\AsciiSumator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\refint\AsciiSumator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\AsciiSumator.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AsciiSumator\obj\Debug\net8.0\ref\AsciiSumator.dll

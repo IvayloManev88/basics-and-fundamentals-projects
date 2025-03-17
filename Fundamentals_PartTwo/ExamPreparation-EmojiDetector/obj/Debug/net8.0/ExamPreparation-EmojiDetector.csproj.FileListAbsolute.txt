@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\bin\Debug\net8.0\ExamPreparation-EmojiDetector.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\bin\Debug\net8.0\ExamPreparation-EmojiDetector.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\bin\Debug\net8.0\ExamPreparation-EmojiDetector.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\bin\Debug\net8.0\ExamPreparation-EmojiDetector.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\bin\Debug\net8.0\ExamPreparation-EmojiDetector.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\refint\ExamPreparation-EmojiDetector.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ExamPreparation-EmojiDetector.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-EmojiDetector\obj\Debug\net8.0\ref\ExamPreparation-EmojiDetector.dll

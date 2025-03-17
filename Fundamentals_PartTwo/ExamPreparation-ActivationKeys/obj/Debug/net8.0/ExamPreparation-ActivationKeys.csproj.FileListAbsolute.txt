@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\bin\Debug\net8.0\ExamPreparation-ActivationKeys.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\bin\Debug\net8.0\ExamPreparation-ActivationKeys.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\bin\Debug\net8.0\ExamPreparation-ActivationKeys.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\bin\Debug\net8.0\ExamPreparation-ActivationKeys.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\bin\Debug\net8.0\ExamPreparation-ActivationKeys.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\refint\ExamPreparation-ActivationKeys.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ExamPreparation-ActivationKeys.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-ActivationKeys\obj\Debug\net8.0\ref\ExamPreparation-ActivationKeys.dll

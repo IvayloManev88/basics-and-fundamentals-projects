@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}|TreasureFinder\\TreasureFinder.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}|TreasureFinder\\TreasureFinder.csproj|solutionrelative:treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6BB541-F1E5-4C7C-8AB4-0009CA2CB0D7}|ExtractPersonInformation\\ExtractPersonInformation.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6BB541-F1E5-4C7C-8AB4-0009CA2CB0D7}|ExtractPersonInformation\\ExtractPersonInformation.csproj|solutionrelative:extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746013C-4208-4EF9-852E-FF5B7A4E9462}|AsciiSumator\\AsciiSumator.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746013C-4208-4EF9-852E-FF5B7A4E9462}|AsciiSumator\\AsciiSumator.csproj|solutionrelative:asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8906EDBA-E757-4B24-945A-12685FEAE5CD}|DragonArmy\\DragonArmy.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\dragonarmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8906EDBA-E757-4B24-945A-12685FEAE5CD}|DragonArmy\\DragonArmy.csproj|solutionrelative:dragonarmy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39CED7E-8AE1-49EC-8609-5FD7DE7D3B81}|SnowwhiteWithClasses\\SnowwhiteWithClasses.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\snowwhitewithclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39CED7E-8AE1-49EC-8609-5FD7DE7D3B81}|SnowwhiteWithClasses\\SnowwhiteWithClasses.csproj|solutionrelative:snowwhitewithclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB3312-67F9-4B83-B215-50BFC673660E}|ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB3312-67F9-4B83-B215-50BFC673660E}|ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj|solutionrelative:exampreparation-activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB3312-67F9-4B83-B215-50BFC673660E}|ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-activationkeys\\exampreparation-activationkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22EB3312-67F9-4B83-B215-50BFC673660E}|ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj|solutionrelative:exampreparation-activationkeys\\exampreparation-activationkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4858CE4A-B190-4FA6-854F-400F7AAD6EE3}|ExamPreparation-Pirates\\ExamPreparation-Pirates.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-pirates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4858CE4A-B190-4FA6-854F-400F7AAD6EE3}|ExamPreparation-Pirates\\ExamPreparation-Pirates.csproj|solutionrelative:exampreparation-pirates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0B326-FB76-4158-9403-2D0AAA958ABB}|ExamPreparation-EmojiDetector\\ExamPreparation-EmojiDetector.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0B326-FB76-4158-9403-2D0AAA958ABB}|ExamPreparation-EmojiDetector\\ExamPreparation-EmojiDetector.csproj|solutionrelative:exampreparation-emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6D3F8B-9B18-4E3D-8D2E-3F3F10E0C9AE}|ExamPreparationFancyBarcodes\\ExamPreparationFancyBarcodes.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparationfancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6D3F8B-9B18-4E3D-8D2E-3F3F10E0C9AE}|ExamPreparationFancyBarcodes\\ExamPreparationFancyBarcodes.csproj|solutionrelative:exampreparationfancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880A9707-DE45-4331-BAB6-57E870EDB8FB}|ExamPreparation-PasswordReset\\ExamPreparation-PasswordReset.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880A9707-DE45-4331-BAB6-57E870EDB8FB}|ExamPreparation-PasswordReset\\ExamPreparation-PasswordReset.csproj|solutionrelative:exampreparation-passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54032325-8A09-44FA-A94D-7FF066FDAEB1}|ExamPreparation-NeedForSpeed\\ExamPreparation-NeedForSpeed.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-needforspeed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54032325-8A09-44FA-A94D-7FF066FDAEB1}|ExamPreparation-NeedForSpeed\\ExamPreparation-NeedForSpeed.csproj|solutionrelative:exampreparation-needforspeed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F712E4-39A7-4220-BB73-0618BA9655B7}|ExamPreparation-MirrorWords\\ExamPreparation-MirrorWords.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F712E4-39A7-4220-BB73-0618BA9655B7}|ExamPreparation-MirrorWords\\ExamPreparation-MirrorWords.csproj|solutionrelative:exampreparation-mirrorwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9CF064-2CF8-4945-B37E-78DB48D58150}|ExamPreparation-SecretChat\\ExamPreparation-SecretChat.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9CF064-2CF8-4945-B37E-78DB48D58150}|ExamPreparation-SecretChat\\ExamPreparation-SecretChat.csproj|solutionrelative:exampreparation-secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49F8AFAC-D86B-4730-B264-D3DC3518D7C9}|ExamPreparation-AdAstra\\ExamPreparation-AdAstra.csproj|c:\\users\\armyman-pc\\source\\repos\\fundamentals_parttwo\\exampreparation-adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49F8AFAC-D86B-4730-B264-D3DC3518D7C9}|ExamPreparation-AdAstra\\ExamPreparation-AdAstra.csproj|solutionrelative:exampreparation-adastra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +92,189 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\TreasureFinder\\Program.cs",
+              "RelativeDocumentMoniker": "TreasureFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\TreasureFinder\\Program.cs",
+              "RelativeToolTip": "TreasureFinder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:27:38.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\AsciiSumator\\Program.cs",
+              "RelativeDocumentMoniker": "AsciiSumator\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\AsciiSumator\\Program.cs",
+              "RelativeToolTip": "AsciiSumator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:21:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExtractPersonInformation\\Program.cs",
+              "RelativeDocumentMoniker": "ExtractPersonInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExtractPersonInformation\\Program.cs",
+              "RelativeToolTip": "ExtractPersonInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:11:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\DragonArmy\\Program.cs",
+              "RelativeDocumentMoniker": "DragonArmy\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\DragonArmy\\Program.cs",
+              "RelativeToolTip": "DragonArmy\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:41:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\SnowwhiteWithClasses\\Program.cs",
+              "RelativeDocumentMoniker": "SnowwhiteWithClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\SnowwhiteWithClasses\\Program.cs",
+              "RelativeToolTip": "SnowwhiteWithClasses\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:36:16.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamPreparation-ActivationKeys.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj",
+              "RelativeDocumentMoniker": "ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj",
+              "RelativeToolTip": "ExamPreparation-ActivationKeys\\ExamPreparation-ActivationKeys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T21:09:21.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-Pirates\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-Pirates\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-Pirates\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-Pirates\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:51:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-EmojiDetector\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-EmojiDetector\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-EmojiDetector\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-EmojiDetector\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:20:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ActivationKeys\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-ActivationKeys\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ActivationKeys\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-ActivationKeys\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:32:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparationFancyBarcodes\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparationFancyBarcodes\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparationFancyBarcodes\\Program.cs",
+              "RelativeToolTip": "ExamPreparationFancyBarcodes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:40:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-PasswordReset\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-PasswordReset\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-PasswordReset\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-PasswordReset\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:50:09.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-NeedForSpeed\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-NeedForSpeed\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-NeedForSpeed\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-NeedForSpeed\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:19:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-MirrorWords\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-MirrorWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-MirrorWords\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-MirrorWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:57:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-SecretChat\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPreparation-SecretChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-SecretChat\\Program.cs",
+              "RelativeToolTip": "ExamPreparation-SecretChat\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:34:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-AdAstra\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation-AdAstra\\Program.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-AdAstra\\Program.cs",
               "RelativeToolTip": "ExamPreparation-AdAstra\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T20:02:48.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T20:02:48.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-ImitationGame\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation-ImitationGame\\Program.cs",
@@ -55,12 +282,11 @@
               "RelativeToolTip": "ExamPreparation-ImitationGame\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T19:43:32.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T19:43:32.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-BakeryShop\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation-BakeryShop\\Program.cs",
@@ -68,12 +294,11 @@
               "RelativeToolTip": "ExamPreparation-BakeryShop\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:31:19.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:31:19.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-DestinationMapper\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation-DestinationMapper\\Program.cs",
@@ -81,12 +306,11 @@
               "RelativeToolTip": "ExamPreparation-DestinationMapper\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:45:02.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:45:02.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Fundamentals_PartTwo\\ExamPreparation-Registration\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation-Registration\\Program.cs",
@@ -94,8 +318,7 @@
               "RelativeToolTip": "ExamPreparation-Registration\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T15:41:25.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T15:41:25.586Z"
             }
           ]
         }

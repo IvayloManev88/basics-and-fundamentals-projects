@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\bin\Debug\net8.0\ExamPreparationFancyBarcodes.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\bin\Debug\net8.0\ExamPreparationFancyBarcodes.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\bin\Debug\net8.0\ExamPreparationFancyBarcodes.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\bin\Debug\net8.0\ExamPreparationFancyBarcodes.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\bin\Debug\net8.0\ExamPreparationFancyBarcodes.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\refint\ExamPreparationFancyBarcodes.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ExamPreparationFancyBarcodes.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparationFancyBarcodes\obj\Debug\net8.0\ref\ExamPreparationFancyBarcodes.dll

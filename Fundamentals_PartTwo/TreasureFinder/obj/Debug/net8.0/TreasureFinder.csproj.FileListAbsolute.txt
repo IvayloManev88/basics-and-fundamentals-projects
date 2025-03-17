@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\bin\Debug\net8.0\TreasureFinder.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\bin\Debug\net8.0\TreasureFinder.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\bin\Debug\net8.0\TreasureFinder.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\bin\Debug\net8.0\TreasureFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\bin\Debug\net8.0\TreasureFinder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\refint\TreasureFinder.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\TreasureFinder.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TreasureFinder\obj\Debug\net8.0\ref\TreasureFinder.dll

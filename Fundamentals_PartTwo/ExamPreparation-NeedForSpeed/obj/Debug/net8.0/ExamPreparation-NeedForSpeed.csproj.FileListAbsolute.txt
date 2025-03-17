@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\bin\Debug\net8.0\ExamPreparation-NeedForSpeed.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\bin\Debug\net8.0\ExamPreparation-NeedForSpeed.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\bin\Debug\net8.0\ExamPreparation-NeedForSpeed.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\bin\Debug\net8.0\ExamPreparation-NeedForSpeed.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\bin\Debug\net8.0\ExamPreparation-NeedForSpeed.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\refint\ExamPreparation-NeedForSpeed.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ExamPreparation-NeedForSpeed.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-NeedForSpeed\obj\Debug\net8.0\ref\ExamPreparation-NeedForSpeed.dll

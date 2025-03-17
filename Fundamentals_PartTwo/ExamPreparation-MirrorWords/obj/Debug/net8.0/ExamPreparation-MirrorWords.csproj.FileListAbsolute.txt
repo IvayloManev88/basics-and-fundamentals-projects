@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\bin\Debug\net8.0\ExamPreparation-MirrorWords.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\bin\Debug\net8.0\ExamPreparation-MirrorWords.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\bin\Debug\net8.0\ExamPreparation-MirrorWords.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\bin\Debug\net8.0\ExamPreparation-MirrorWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\bin\Debug\net8.0\ExamPreparation-MirrorWords.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\refint\ExamPreparation-MirrorWords.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ExamPreparation-MirrorWords.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\ExamPreparation-MirrorWords\obj\Debug\net8.0\ref\ExamPreparation-MirrorWords.dll
