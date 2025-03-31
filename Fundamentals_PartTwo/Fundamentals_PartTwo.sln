@@ -119,11 +119,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnowwhiteWithClasses", "Sno
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragonArmy", "DragonArmy\DragonArmy.csproj", "{8906EDBA-E757-4B24-945A-12685FEAE5CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractPersonInformation", "ExtractPersonInformation\ExtractPersonInformation.csproj", "{DA6BB541-F1E5-4C7C-8AB4-0009CA2CB0D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractPersonInformation", "ExtractPersonInformation\ExtractPersonInformation.csproj", "{DA6BB541-F1E5-4C7C-8AB4-0009CA2CB0D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiSumator", "AsciiSumator\AsciiSumator.csproj", "{A746013C-4208-4EF9-852E-FF5B7A4E9462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsciiSumator", "AsciiSumator\AsciiSumator.csproj", "{A746013C-4208-4EF9-852E-FF5B7A4E9462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureFinder", "TreasureFinder\TreasureFinder.csproj", "{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreasureFinder", "TreasureFinder\TreasureFinder.csproj", "{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorseCodeTranslator", "MorseCodeTranslator\MorseCodeTranslator.csproj", "{6B400313-9F6C-49CE-A71E-3C87C1C53541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTML", "HTML\HTML.csproj", "{AF238F2C-677A-4CEB-AF94-E39E78835D98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SantaSecretHelper", "SantaSecretHelper\SantaSecretHelper.csproj", "{2B647F48-4500-4152-A5BC-04535E046C82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHelp", "TestHelp\TestHelp.csproj", "{C133F508-A965-4D0C-ACE8-BBE0B2DB8D95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SantaNew List", "SantaNew List\SantaNew List.csproj", "{88B85D91-104C-4337-8386-C28704866F2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AaExamFirstTask", "AaExamFirstTask\AaExamFirstTask.csproj", "{210D5A8B-A797-4FFA-ADE3-6EE2B35D50A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AaExamSecondTask", "AaExamSecondTask\AaExamSecondTask.csproj", "{8F2EF51C-811F-4A67-A957-D624A5ADFB8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AaExamSThirdTask", "AaExamSThirdTask\AaExamSThirdTask.csproj", "{E5AFB584-95CF-46F3-A787-DEDB1EC68197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6825AAE2-3804-4912-A7B5-EEBB2CAF01C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +393,42 @@ Global
 		{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{719780B0-D0B9-4AB4-A040-FF0BDFD44D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B400313-9F6C-49CE-A71E-3C87C1C53541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B400313-9F6C-49CE-A71E-3C87C1C53541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B400313-9F6C-49CE-A71E-3C87C1C53541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B400313-9F6C-49CE-A71E-3C87C1C53541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF238F2C-677A-4CEB-AF94-E39E78835D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF238F2C-677A-4CEB-AF94-E39E78835D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF238F2C-677A-4CEB-AF94-E39E78835D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF238F2C-677A-4CEB-AF94-E39E78835D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B647F48-4500-4152-A5BC-04535E046C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B647F48-4500-4152-A5BC-04535E046C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B647F48-4500-4152-A5BC-04535E046C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B647F48-4500-4152-A5BC-04535E046C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C133F508-A965-4D0C-ACE8-BBE0B2DB8D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C133F508-A965-4D0C-ACE8-BBE0B2DB8D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C133F508-A965-4D0C-ACE8-BBE0B2DB8D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C133F508-A965-4D0C-ACE8-BBE0B2DB8D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B85D91-104C-4337-8386-C28704866F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B85D91-104C-4337-8386-C28704866F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B85D91-104C-4337-8386-C28704866F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B85D91-104C-4337-8386-C28704866F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210D5A8B-A797-4FFA-ADE3-6EE2B35D50A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210D5A8B-A797-4FFA-ADE3-6EE2B35D50A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210D5A8B-A797-4FFA-ADE3-6EE2B35D50A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210D5A8B-A797-4FFA-ADE3-6EE2B35D50A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2EF51C-811F-4A67-A957-D624A5ADFB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2EF51C-811F-4A67-A957-D624A5ADFB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2EF51C-811F-4A67-A957-D624A5ADFB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2EF51C-811F-4A67-A957-D624A5ADFB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AFB584-95CF-46F3-A787-DEDB1EC68197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AFB584-95CF-46F3-A787-DEDB1EC68197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AFB584-95CF-46F3-A787-DEDB1EC68197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AFB584-95CF-46F3-A787-DEDB1EC68197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6825AAE2-3804-4912-A7B5-EEBB2CAF01C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6825AAE2-3804-4912-A7B5-EEBB2CAF01C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6825AAE2-3804-4912-A7B5-EEBB2CAF01C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6825AAE2-3804-4912-A7B5-EEBB2CAF01C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

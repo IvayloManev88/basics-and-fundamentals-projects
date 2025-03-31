@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\bin\Debug\net8.0\AaExamFirstTask.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\bin\Debug\net8.0\AaExamFirstTask.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\bin\Debug\net8.0\AaExamFirstTask.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\bin\Debug\net8.0\AaExamFirstTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\bin\Debug\net8.0\AaExamFirstTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\refint\AaExamFirstTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\AaExamFirstTask.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamFirstTask\obj\Debug\net8.0\ref\AaExamFirstTask.dll

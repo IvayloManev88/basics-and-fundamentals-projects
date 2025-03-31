@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\bin\Debug\net8.0\MorseCodeTranslator.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\bin\Debug\net8.0\MorseCodeTranslator.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\bin\Debug\net8.0\MorseCodeTranslator.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\bin\Debug\net8.0\MorseCodeTranslator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\bin\Debug\net8.0\MorseCodeTranslator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\refint\MorseCodeTranslator.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\MorseCodeTranslator.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\MorseCodeTranslator\obj\Debug\net8.0\ref\MorseCodeTranslator.dll

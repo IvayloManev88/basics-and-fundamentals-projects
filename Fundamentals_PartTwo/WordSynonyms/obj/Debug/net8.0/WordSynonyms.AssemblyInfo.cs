@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordSynonyms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7700de3f7036f6d15736a67bef9f6b64d4a66552")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64c1a9481d25c6be1134f25b1add34d4c8171b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordSynonyms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordSynonyms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

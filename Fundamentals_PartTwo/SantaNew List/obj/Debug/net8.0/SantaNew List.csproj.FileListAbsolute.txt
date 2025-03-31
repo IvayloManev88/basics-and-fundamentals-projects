@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\bin\Debug\net8.0\SantaNew List.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\bin\Debug\net8.0\SantaNew List.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\bin\Debug\net8.0\SantaNew List.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\bin\Debug\net8.0\SantaNew List.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\bin\Debug\net8.0\SantaNew List.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\refint\SantaNew List.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\SantaNew List.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\SantaNew List\obj\Debug\net8.0\ref\SantaNew List.dll

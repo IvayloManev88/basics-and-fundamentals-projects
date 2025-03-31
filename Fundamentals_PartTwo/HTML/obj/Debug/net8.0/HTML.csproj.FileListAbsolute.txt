@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\bin\Debug\net8.0\HTML.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\bin\Debug\net8.0\HTML.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\bin\Debug\net8.0\HTML.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\bin\Debug\net8.0\HTML.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\bin\Debug\net8.0\HTML.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\refint\HTML.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\HTML.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\HTML\obj\Debug\net8.0\ref\HTML.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\bin\Debug\net8.0\TestHelp.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\bin\Debug\net8.0\TestHelp.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\bin\Debug\net8.0\TestHelp.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\bin\Debug\net8.0\TestHelp.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\bin\Debug\net8.0\TestHelp.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\refint\TestHelp.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\TestHelp.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\TestHelp\obj\Debug\net8.0\ref\TestHelp.dll

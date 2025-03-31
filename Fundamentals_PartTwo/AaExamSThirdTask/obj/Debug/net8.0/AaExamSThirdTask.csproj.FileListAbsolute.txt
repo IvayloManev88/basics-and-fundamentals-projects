@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\bin\Debug\net8.0\AaExamSThirdTask.exe
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\bin\Debug\net8.0\AaExamSThirdTask.deps.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\bin\Debug\net8.0\AaExamSThirdTask.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\bin\Debug\net8.0\AaExamSThirdTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\bin\Debug\net8.0\AaExamSThirdTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\refint\AaExamSThirdTask.dll
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.pdb
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\AaExamSThirdTask.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Fundamentals_PartTwo\AaExamSThirdTask\obj\Debug\net8.0\ref\AaExamSThirdTask.dll
