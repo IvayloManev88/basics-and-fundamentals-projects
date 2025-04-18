@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\bin\Debug\net8.0\SumMatrixColumns.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\bin\Debug\net8.0\SumMatrixColumns.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\bin\Debug\net8.0\SumMatrixColumns.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\bin\Debug\net8.0\SumMatrixColumns.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\bin\Debug\net8.0\SumMatrixColumns.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\refint\SumMatrixColumns.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\SumMatrixColumns.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixColumns\obj\Debug\net8.0\ref\SumMatrixColumns.dll

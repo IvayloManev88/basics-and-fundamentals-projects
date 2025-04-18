@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\bin\Debug\net8.0\FastFood.exe
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\bin\Debug\net8.0\FastFood.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\bin\Debug\net8.0\FastFood.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\bin\Debug\net8.0\FastFood.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\bin\Debug\net8.0\FastFood.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\refint\FastFood.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\FastFood.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FastFood\obj\Debug\net8.0\ref\FastFood.dll

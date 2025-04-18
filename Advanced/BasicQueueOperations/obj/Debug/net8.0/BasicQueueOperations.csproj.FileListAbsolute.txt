@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.exe
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\refint\BasicQueueOperations.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BasicQueueOperations\obj\Debug\net8.0\ref\BasicQueueOperations.dll

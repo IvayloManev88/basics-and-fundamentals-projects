@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\bin\Debug\net8.0\TruckTour.exe
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\bin\Debug\net8.0\TruckTour.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\bin\Debug\net8.0\TruckTour.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\bin\Debug\net8.0\TruckTour.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\bin\Debug\net8.0\TruckTour.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\refint\TruckTour.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\TruckTour.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TruckTour\obj\Debug\net8.0\ref\TruckTour.dll

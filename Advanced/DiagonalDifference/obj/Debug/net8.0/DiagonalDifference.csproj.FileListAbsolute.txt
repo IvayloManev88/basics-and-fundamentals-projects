@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\bin\Debug\net8.0\DiagonalDifference.exe
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\bin\Debug\net8.0\DiagonalDifference.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\bin\Debug\net8.0\DiagonalDifference.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\bin\Debug\net8.0\DiagonalDifference.dll
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\bin\Debug\net8.0\DiagonalDifference.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.dll
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\refint\DiagonalDifference.dll
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\DiagonalDifference\obj\Debug\net8.0\ref\DiagonalDifference.dll

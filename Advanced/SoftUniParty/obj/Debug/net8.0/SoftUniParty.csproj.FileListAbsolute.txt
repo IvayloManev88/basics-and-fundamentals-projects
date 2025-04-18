@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\bin\Debug\net8.0\SoftUniParty.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\bin\Debug\net8.0\SoftUniParty.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\bin\Debug\net8.0\SoftUniParty.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\bin\Debug\net8.0\SoftUniParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\bin\Debug\net8.0\SoftUniParty.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\refint\SoftUniParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\SoftUniParty.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SoftUniParty\obj\Debug\net8.0\ref\SoftUniParty.dll

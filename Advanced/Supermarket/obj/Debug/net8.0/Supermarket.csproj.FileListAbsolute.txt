@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\bin\Debug\net8.0\Supermarket.exe
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\bin\Debug\net8.0\Supermarket.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\bin\Debug\net8.0\Supermarket.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\bin\Debug\net8.0\Supermarket.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\bin\Debug\net8.0\Supermarket.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\refint\Supermarket.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\Supermarket.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Supermarket\obj\Debug\net8.0\ref\Supermarket.dll

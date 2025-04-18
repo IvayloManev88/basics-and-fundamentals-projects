@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\bin\Debug\net8.0\JaggedArrayManipulator.exe
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\bin\Debug\net8.0\JaggedArrayManipulator.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\bin\Debug\net8.0\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\bin\Debug\net8.0\JaggedArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\bin\Debug\net8.0\JaggedArrayManipulator.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\refint\JaggedArrayManipulator.dll
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\JaggedArrayManipulator\obj\Debug\net8.0\ref\JaggedArrayManipulator.dll

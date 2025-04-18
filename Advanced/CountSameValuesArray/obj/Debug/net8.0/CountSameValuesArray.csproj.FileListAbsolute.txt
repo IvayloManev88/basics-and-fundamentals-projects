@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\bin\Debug\net8.0\CountSameValuesArray.exe
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\bin\Debug\net8.0\CountSameValuesArray.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\bin\Debug\net8.0\CountSameValuesArray.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\bin\Debug\net8.0\CountSameValuesArray.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\bin\Debug\net8.0\CountSameValuesArray.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\refint\CountSameValuesArray.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\CountSameValuesArray.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountSameValuesArray\obj\Debug\net8.0\ref\CountSameValuesArray.dll

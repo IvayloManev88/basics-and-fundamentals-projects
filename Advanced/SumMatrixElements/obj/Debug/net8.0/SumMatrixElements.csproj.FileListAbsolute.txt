@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\refint\SumMatrixElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumMatrixElements\obj\Debug\net8.0\ref\SumMatrixElements.dll

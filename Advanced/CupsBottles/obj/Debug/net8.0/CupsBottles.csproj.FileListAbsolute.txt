@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\bin\Debug\net8.0\CupsBottles.exe
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\bin\Debug\net8.0\CupsBottles.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\bin\Debug\net8.0\CupsBottles.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\bin\Debug\net8.0\CupsBottles.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\bin\Debug\net8.0\CupsBottles.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\refint\CupsBottles.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\CupsBottles.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CupsBottles\obj\Debug\net8.0\ref\CupsBottles.dll

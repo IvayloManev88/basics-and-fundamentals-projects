@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\bin\Debug\net8.0\SquaresMatrix.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\bin\Debug\net8.0\SquaresMatrix.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\bin\Debug\net8.0\SquaresMatrix.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\bin\Debug\net8.0\SquaresMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\bin\Debug\net8.0\SquaresMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\refint\SquaresMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\SquaresMatrix.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquaresMatrix\obj\Debug\net8.0\ref\SquaresMatrix.dll

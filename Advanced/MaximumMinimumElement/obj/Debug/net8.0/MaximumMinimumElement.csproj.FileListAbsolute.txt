@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\bin\Debug\net8.0\MaximumMinimumElement.exe
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\bin\Debug\net8.0\MaximumMinimumElement.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\bin\Debug\net8.0\MaximumMinimumElement.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\bin\Debug\net8.0\MaximumMinimumElement.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\bin\Debug\net8.0\MaximumMinimumElement.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\refint\MaximumMinimumElement.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\MaximumMinimumElement.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximumMinimumElement\obj\Debug\net8.0\ref\MaximumMinimumElement.dll

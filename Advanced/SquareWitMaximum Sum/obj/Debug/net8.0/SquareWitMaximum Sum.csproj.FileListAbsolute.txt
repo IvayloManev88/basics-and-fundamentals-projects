@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\bin\Debug\net8.0\SquareWitMaximum Sum.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\bin\Debug\net8.0\SquareWitMaximum Sum.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\bin\Debug\net8.0\SquareWitMaximum Sum.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\bin\Debug\net8.0\SquareWitMaximum Sum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\bin\Debug\net8.0\SquareWitMaximum Sum.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\refint\SquareWitMaximum Sum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\SquareWitMaximum Sum.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SquareWitMaximum Sum\obj\Debug\net8.0\ref\SquareWitMaximum Sum.dll

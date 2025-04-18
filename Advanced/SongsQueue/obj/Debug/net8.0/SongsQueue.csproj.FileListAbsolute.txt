@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\bin\Debug\net8.0\SongsQueue.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\bin\Debug\net8.0\SongsQueue.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\bin\Debug\net8.0\SongsQueue.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\bin\Debug\net8.0\SongsQueue.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\bin\Debug\net8.0\SongsQueue.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\refint\SongsQueue.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\SongsQueue.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SongsQueue\obj\Debug\net8.0\ref\SongsQueue.dll

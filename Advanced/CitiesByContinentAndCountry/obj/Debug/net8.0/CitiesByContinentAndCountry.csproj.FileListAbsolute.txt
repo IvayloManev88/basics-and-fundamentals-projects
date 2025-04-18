@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\bin\Debug\net8.0\CitiesByContinentAndCountry.exe
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\bin\Debug\net8.0\CitiesByContinentAndCountry.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\bin\Debug\net8.0\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\bin\Debug\net8.0\CitiesByContinentAndCountry.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\bin\Debug\net8.0\CitiesByContinentAndCountry.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\refint\CitiesByContinentAndCountry.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\CitiesByContinentAndCountry.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CitiesByContinentAndCountry\obj\Debug\net8.0\ref\CitiesByContinentAndCountry.dll

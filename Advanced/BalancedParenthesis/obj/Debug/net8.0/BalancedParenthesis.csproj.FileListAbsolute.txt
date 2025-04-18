@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\bin\Debug\net8.0\BalancedParenthesis.exe
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\bin\Debug\net8.0\BalancedParenthesis.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\bin\Debug\net8.0\BalancedParenthesis.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\bin\Debug\net8.0\BalancedParenthesis.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\bin\Debug\net8.0\BalancedParenthesis.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\refint\BalancedParenthesis.dll
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\BalancedParenthesis.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\BalancedParenthesis\obj\Debug\net8.0\ref\BalancedParenthesis.dll

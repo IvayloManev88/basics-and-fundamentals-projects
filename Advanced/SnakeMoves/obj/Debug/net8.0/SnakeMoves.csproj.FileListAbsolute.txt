@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\bin\Debug\net8.0\SnakeMoves.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\bin\Debug\net8.0\SnakeMoves.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\bin\Debug\net8.0\SnakeMoves.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\bin\Debug\net8.0\SnakeMoves.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\bin\Debug\net8.0\SnakeMoves.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\refint\SnakeMoves.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\SnakeMoves.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SnakeMoves\obj\Debug\net8.0\ref\SnakeMoves.dll

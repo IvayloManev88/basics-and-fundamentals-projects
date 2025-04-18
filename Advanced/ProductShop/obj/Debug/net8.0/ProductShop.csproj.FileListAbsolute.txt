@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\bin\Debug\net8.0\ProductShop.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\bin\Debug\net8.0\ProductShop.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\bin\Debug\net8.0\ProductShop.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\bin\Debug\net8.0\ProductShop.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\bin\Debug\net8.0\ProductShop.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\refint\ProductShop.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ProductShop.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ProductShop\obj\Debug\net8.0\ref\ProductShop.dll

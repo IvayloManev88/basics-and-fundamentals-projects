@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\bin\Debug\net8.0\ParkingLot.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\bin\Debug\net8.0\ParkingLot.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\bin\Debug\net8.0\ParkingLot.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\bin\Debug\net8.0\ParkingLot.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\bin\Debug\net8.0\ParkingLot.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\refint\ParkingLot.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ParkingLot.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ParkingLot\obj\Debug\net8.0\ref\ParkingLot.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\bin\Debug\net8.0\MaximalSum.exe
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\bin\Debug\net8.0\MaximalSum.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\bin\Debug\net8.0\MaximalSum.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\bin\Debug\net8.0\MaximalSum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\bin\Debug\net8.0\MaximalSum.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\refint\MaximalSum.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\MaximalSum.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MaximalSum\obj\Debug\net8.0\ref\MaximalSum.dll

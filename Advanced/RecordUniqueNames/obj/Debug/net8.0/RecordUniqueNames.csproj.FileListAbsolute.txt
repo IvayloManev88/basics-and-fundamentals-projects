@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.exe
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\refint\RecordUniqueNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\RecordUniqueNames\obj\Debug\net8.0\ref\RecordUniqueNames.dll

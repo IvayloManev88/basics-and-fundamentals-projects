@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\bin\Debug\net8.0\KnightGame.exe
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\bin\Debug\net8.0\KnightGame.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\bin\Debug\net8.0\KnightGame.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\bin\Debug\net8.0\KnightGame.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\bin\Debug\net8.0\KnightGame.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\refint\KnightGame.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\KnightGame.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightGame\obj\Debug\net8.0\ref\KnightGame.dll

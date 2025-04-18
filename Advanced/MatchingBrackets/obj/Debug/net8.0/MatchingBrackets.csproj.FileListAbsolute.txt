@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.exe
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\refint\MatchingBrackets.dll
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\MatchingBrackets\obj\Debug\net8.0\ref\MatchingBrackets.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\bin\Debug\net8.0\SymbolMatrix.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\bin\Debug\net8.0\SymbolMatrix.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\bin\Debug\net8.0\SymbolMatrix.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\bin\Debug\net8.0\SymbolMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\bin\Debug\net8.0\SymbolMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\refint\SymbolMatrix.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\SymbolMatrix.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SymbolMatrix\obj\Debug\net8.0\ref\SymbolMatrix.dll

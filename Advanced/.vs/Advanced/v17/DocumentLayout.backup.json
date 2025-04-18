@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E1D3E4-1B3C-4743-A728-8A54F95DE3AE}|SoftUniParty\\SoftUniParty.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E1D3E4-1B3C-4743-A728-8A54F95DE3AE}|SoftUniParty\\SoftUniParty.csproj|solutionrelative:softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D38E4B-22C7-4858-9EBC-643034A86D0D}|ParkingLot\\ParkingLot.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D38E4B-22C7-4858-9EBC-643034A86D0D}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCD919B-5A2C-4687-8BD2-49F021631AC6}|RecordUniqueNames\\RecordUniqueNames.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCD919B-5A2C-4687-8BD2-49F021631AC6}|RecordUniqueNames\\RecordUniqueNames.csproj|solutionrelative:recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6CD4E4-DC86-4B2A-B1C7-1CE4D5B8FA50}|CitiesByContinentAndCountry\\CitiesByContinentAndCountry.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6CD4E4-DC86-4B2A-B1C7-1CE4D5B8FA50}|CitiesByContinentAndCountry\\CitiesByContinentAndCountry.csproj|solutionrelative:citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B64A37-12D6-468C-A5A3-7EC140C2C934}|ProductShop\\ProductShop.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B64A37-12D6-468C-A5A3-7EC140C2C934}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40839A05-824A-4181-8382-A1A08C68551F}|AverageStudentGrades\\AverageStudentGrades.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40839A05-824A-4181-8382-A1A08C68551F}|AverageStudentGrades\\AverageStudentGrades.csproj|solutionrelative:averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D5D179-452D-4E77-A1A9-3F0649410FB3}|CountSameValuesArray\\CountSameValuesArray.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\countsamevaluesarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D5D179-452D-4E77-A1A9-3F0649410FB3}|CountSameValuesArray\\CountSameValuesArray.csproj|solutionrelative:countsamevaluesarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3240320E-901E-4CB9-8042-88A260F82118}|Largest3Numbers\\Largest3Numbers.csproj|c:\\users\\armyman-pc\\source\\repos\\advanced\\largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3240320E-901E-4CB9-8042-88A260F82118}|Largest3Numbers\\Largest3Numbers.csproj|solutionrelative:largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\SoftUniParty\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\SoftUniParty\\Program.cs",
+              "RelativeToolTip": "SoftUniParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:51:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\ParkingLot\\Program.cs",
+              "RelativeToolTip": "ParkingLot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:43:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "RecordUniqueNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:40:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\CitiesByContinentAndCountry\\Program.cs",
+              "RelativeDocumentMoniker": "CitiesByContinentAndCountry\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\CitiesByContinentAndCountry\\Program.cs",
+              "RelativeToolTip": "CitiesByContinentAndCountry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:22:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\ProductShop\\Program.cs",
+              "RelativeToolTip": "ProductShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:58:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "Largest3Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:55:16.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "AverageStudentGrades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:30:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\CountSameValuesArray\\Program.cs",
+              "RelativeDocumentMoniker": "CountSameValuesArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Advanced\\CountSameValuesArray\\Program.cs",
+              "RelativeToolTip": "CountSameValuesArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:25:31.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

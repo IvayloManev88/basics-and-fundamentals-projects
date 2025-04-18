@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\bin\Debug\net8.0\PrintEvenNumbers.exe
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\bin\Debug\net8.0\PrintEvenNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\bin\Debug\net8.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\bin\Debug\net8.0\PrintEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\bin\Debug\net8.0\PrintEvenNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\refint\PrintEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PrintEvenNumbers\obj\Debug\net8.0\ref\PrintEvenNumbers.dll

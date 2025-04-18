@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\bin\Debug\net8.0\Largest3Numbers.exe
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\bin\Debug\net8.0\Largest3Numbers.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\bin\Debug\net8.0\Largest3Numbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\bin\Debug\net8.0\Largest3Numbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\bin\Debug\net8.0\Largest3Numbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\refint\Largest3Numbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\Largest3Numbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Largest3Numbers\obj\Debug\net8.0\ref\Largest3Numbers.dll
