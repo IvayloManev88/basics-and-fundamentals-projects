@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\bin\Debug\net8.0\PredicateParty.exe
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\bin\Debug\net8.0\PredicateParty.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\bin\Debug\net8.0\PredicateParty.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\bin\Debug\net8.0\PredicateParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\bin\Debug\net8.0\PredicateParty.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\refint\PredicateParty.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\PredicateParty.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateParty\obj\Debug\net8.0\ref\PredicateParty.dll

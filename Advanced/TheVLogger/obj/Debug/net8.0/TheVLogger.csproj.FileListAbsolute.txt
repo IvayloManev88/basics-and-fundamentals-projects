@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\bin\Debug\net8.0\TheVLogger.exe
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\bin\Debug\net8.0\TheVLogger.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\bin\Debug\net8.0\TheVLogger.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\bin\Debug\net8.0\TheVLogger.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\bin\Debug\net8.0\TheVLogger.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\refint\TheVLogger.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\TheVLogger.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TheVLogger\obj\Debug\net8.0\ref\TheVLogger.dll

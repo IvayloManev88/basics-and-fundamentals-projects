@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\bin\Debug\net8.0\ForceBook.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\bin\Debug\net8.0\ForceBook.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\bin\Debug\net8.0\ForceBook.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\bin\Debug\net8.0\ForceBook.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\bin\Debug\net8.0\ForceBook.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\refint\ForceBook.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ForceBook.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ForceBook\obj\Debug\net8.0\ref\ForceBook.dll

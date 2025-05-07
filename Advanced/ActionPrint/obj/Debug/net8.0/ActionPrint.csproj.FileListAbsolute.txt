@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\bin\Debug\net8.0\ActionPrint.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\bin\Debug\net8.0\ActionPrint.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\bin\Debug\net8.0\ActionPrint.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\bin\Debug\net8.0\ActionPrint.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\bin\Debug\net8.0\ActionPrint.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\refint\ActionPrint.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ActionPrint.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ActionPrint\obj\Debug\net8.0\ref\ActionPrint.dll

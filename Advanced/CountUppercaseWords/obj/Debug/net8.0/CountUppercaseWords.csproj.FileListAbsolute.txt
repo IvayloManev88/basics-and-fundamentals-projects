@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.exe
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\refint\CountUppercaseWords.dll
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\CountUppercaseWords\obj\Debug\net8.0\ref\CountUppercaseWords.dll

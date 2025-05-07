@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\bin\Debug\net8.0\TriFunction.exe
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\bin\Debug\net8.0\TriFunction.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\bin\Debug\net8.0\TriFunction.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\bin\Debug\net8.0\TriFunction.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\bin\Debug\net8.0\TriFunction.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\refint\TriFunction.dll
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\TriFunction.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\TriFunction\obj\Debug\net8.0\ref\TriFunction.dll

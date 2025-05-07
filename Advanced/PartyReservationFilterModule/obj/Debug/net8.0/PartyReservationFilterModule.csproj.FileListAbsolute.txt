@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\bin\Debug\net8.0\PartyReservationFilterModule.exe
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\bin\Debug\net8.0\PartyReservationFilterModule.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\bin\Debug\net8.0\PartyReservationFilterModule.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\bin\Debug\net8.0\PartyReservationFilterModule.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\bin\Debug\net8.0\PartyReservationFilterModule.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\refint\PartyReservationFilterModule.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\PartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PartyReservationFilterModule\obj\Debug\net8.0\ref\PartyReservationFilterModule.dll

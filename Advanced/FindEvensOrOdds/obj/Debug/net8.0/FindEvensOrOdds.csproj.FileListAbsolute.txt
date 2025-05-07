@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\bin\Debug\net8.0\FindEvensOrOdds.exe
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\bin\Debug\net8.0\FindEvensOrOdds.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\bin\Debug\net8.0\FindEvensOrOdds.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\bin\Debug\net8.0\FindEvensOrOdds.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\bin\Debug\net8.0\FindEvensOrOdds.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\refint\FindEvensOrOdds.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\FindEvensOrOdds.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FindEvensOrOdds\obj\Debug\net8.0\ref\FindEvensOrOdds.dll

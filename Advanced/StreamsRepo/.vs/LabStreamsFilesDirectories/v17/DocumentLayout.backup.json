@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\oddlines\\oddlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\foldersize\\foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\wordcount\\wordcount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\oddlines\\oddlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\mergefiles\\mergefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\mergefiles\\mergefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|c:\\users\\armyman-pc\\downloads\\skeleton_6.0-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OddLines.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeToolTip": "OddLines\\OddLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:23:28.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:22:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WordCount",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FolderSize",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeToolTip": "FolderSize\\FolderSize.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:23.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LineNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MergeFiles.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeToolTip": "MergeFiles\\MergeFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OddLines.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeToolTip": "OddLines\\OddLines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplitMergeBinaryFile.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordCount.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FolderSize.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeToolTip": "FolderSize\\FolderSize.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtractSpecialBytes",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExtractSpecialBytes.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WordCount",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SplitMergeBinaryFile",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OddLines",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeToolTip": "OddLines\\OddLines.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MergeFiles",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeToolTip": "MergeFiles\\MergeFiles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LineNumbers",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FolderSize",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeToolTip": "FolderSize\\FolderSize.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExtractSpecialBytes",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\Downloads\\Skeleton_6.0-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:21:24.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

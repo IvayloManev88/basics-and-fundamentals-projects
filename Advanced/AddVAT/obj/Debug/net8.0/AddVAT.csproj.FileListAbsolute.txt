@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\bin\Debug\net8.0\AddVAT.exe
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\bin\Debug\net8.0\AddVAT.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\bin\Debug\net8.0\AddVAT.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\bin\Debug\net8.0\AddVAT.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\bin\Debug\net8.0\AddVAT.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\refint\AddVAT.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\AddVAT.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AddVAT\obj\Debug\net8.0\ref\AddVAT.dll

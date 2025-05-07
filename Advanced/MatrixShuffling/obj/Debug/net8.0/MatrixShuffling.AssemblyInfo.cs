@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatrixShuffling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c0da0c7a9aa24ddb63f673d44c26870a66f6a5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85633d718324e59261961306e9a32d5a62bffe4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatrixShuffling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatrixShuffling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

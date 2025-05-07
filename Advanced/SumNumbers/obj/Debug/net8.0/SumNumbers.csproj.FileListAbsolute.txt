@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\bin\Debug\net8.0\SumNumbers.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\bin\Debug\net8.0\SumNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\bin\Debug\net8.0\SumNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\bin\Debug\net8.0\SumNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\bin\Debug\net8.0\SumNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\refint\SumNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\SumNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SumNumbers\obj\Debug\net8.0\ref\SumNumbers.dll

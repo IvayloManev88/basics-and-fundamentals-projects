@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\bin\Debug\net8.0\Wardrobe.exe
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\bin\Debug\net8.0\Wardrobe.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\bin\Debug\net8.0\Wardrobe.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\bin\Debug\net8.0\Wardrobe.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\bin\Debug\net8.0\Wardrobe.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\refint\Wardrobe.dll
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\Wardrobe.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\Wardrobe\obj\Debug\net8.0\ref\Wardrobe.dll

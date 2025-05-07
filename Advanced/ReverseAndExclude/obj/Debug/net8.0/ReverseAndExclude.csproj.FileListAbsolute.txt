@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\bin\Debug\net8.0\ReverseAndExclude.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\bin\Debug\net8.0\ReverseAndExclude.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\bin\Debug\net8.0\ReverseAndExclude.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\bin\Debug\net8.0\ReverseAndExclude.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\bin\Debug\net8.0\ReverseAndExclude.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\refint\ReverseAndExclude.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ReverseAndExclude.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ReverseAndExclude\obj\Debug\net8.0\ref\ReverseAndExclude.dll

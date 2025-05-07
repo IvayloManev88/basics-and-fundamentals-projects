@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\bin\Debug\net8.0\SetsOfElements.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\bin\Debug\net8.0\SetsOfElements.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\bin\Debug\net8.0\SetsOfElements.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\bin\Debug\net8.0\SetsOfElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\bin\Debug\net8.0\SetsOfElements.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\refint\SetsOfElements.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\SetsOfElements.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SetsOfElements\obj\Debug\net8.0\ref\SetsOfElements.dll

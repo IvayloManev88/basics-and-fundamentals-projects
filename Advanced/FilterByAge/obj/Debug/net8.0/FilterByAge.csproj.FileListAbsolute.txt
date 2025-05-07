@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\bin\Debug\net8.0\FilterByAge.exe
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\bin\Debug\net8.0\FilterByAge.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\bin\Debug\net8.0\FilterByAge.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\bin\Debug\net8.0\FilterByAge.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\bin\Debug\net8.0\FilterByAge.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\refint\FilterByAge.dll
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\FilterByAge.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\FilterByAge\obj\Debug\net8.0\ref\FilterByAge.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\bin\Debug\net8.0\KnightOfHonor2.exe
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\bin\Debug\net8.0\KnightOfHonor2.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\bin\Debug\net8.0\KnightOfHonor2.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\bin\Debug\net8.0\KnightOfHonor2.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\bin\Debug\net8.0\KnightOfHonor2.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\refint\KnightOfHonor2.dll
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\KnightOfHonor2.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\KnightOfHonor2\obj\Debug\net8.0\ref\KnightOfHonor2.dll

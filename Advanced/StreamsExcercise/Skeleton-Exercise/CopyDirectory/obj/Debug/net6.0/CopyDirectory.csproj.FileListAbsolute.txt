@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.exe
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\bin\Debug\net6.0\CopyDirectory.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\refint\CopyDirectory.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\CopyDirectory.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\CopyDirectory\obj\Debug\net6.0\ref\CopyDirectory.dll

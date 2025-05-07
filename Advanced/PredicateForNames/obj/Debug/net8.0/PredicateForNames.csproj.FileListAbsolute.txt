@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\bin\Debug\net8.0\PredicateForNames.exe
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\bin\Debug\net8.0\PredicateForNames.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\bin\Debug\net8.0\PredicateForNames.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\bin\Debug\net8.0\PredicateForNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\bin\Debug\net8.0\PredicateForNames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\refint\PredicateForNames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\PredicateForNames.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\PredicateForNames\obj\Debug\net8.0\ref\PredicateForNames.dll

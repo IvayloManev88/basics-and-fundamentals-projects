@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\bin\Debug\net8.0\AppliedArithmetics.exe
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\bin\Debug\net8.0\AppliedArithmetics.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\bin\Debug\net8.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\bin\Debug\net8.0\AppliedArithmetics.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\bin\Debug\net8.0\AppliedArithmetics.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\refint\AppliedArithmetics.dll
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\AppliedArithmetics.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\AppliedArithmetics\obj\Debug\net8.0\ref\AppliedArithmetics.dll

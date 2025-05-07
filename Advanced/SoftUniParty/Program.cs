@@ -12,20 +12,14 @@ namespace SoftUniParty
             while ((guestListFill = Console.ReadLine()) != "PARTY")
             {
 
-                if (guestListFill.Length == 8)
-                {
-                    if (Char.IsDigit(guestListFill[0]))
-                    {
-                        vip.Add(guestListFill);
-                    }
-                    else normal.Add(guestListFill);
-                }
 
+                _ = Char.IsDigit(guestListFill[0]) ? vip.Add(guestListFill) : normal.Add(guestListFill);
             }
+               
             while ((guestListFill = Console.ReadLine()) != "END")
             {
-                if (vip.Contains(guestListFill)) vip.Remove(guestListFill);
-                else if (normal.Contains(guestListFill)) normal.Remove(guestListFill);
+                
+                _ = vip.Contains(guestListFill) ? vip.Remove(guestListFill): normal.Remove(guestListFill);
 
 
             }

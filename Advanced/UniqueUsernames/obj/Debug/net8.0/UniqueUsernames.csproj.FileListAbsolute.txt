@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\bin\Debug\net8.0\UniqueUsernames.exe
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\bin\Debug\net8.0\UniqueUsernames.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\bin\Debug\net8.0\UniqueUsernames.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\bin\Debug\net8.0\UniqueUsernames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\bin\Debug\net8.0\UniqueUsernames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\refint\UniqueUsernames.dll
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\UniqueUsernames.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\UniqueUsernames\obj\Debug\net8.0\ref\UniqueUsernames.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\bin\Debug\net8.0\SortEvenNumbers.exe
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\bin\Debug\net8.0\SortEvenNumbers.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\bin\Debug\net8.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\bin\Debug\net8.0\SortEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\bin\Debug\net8.0\SortEvenNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\refint\SortEvenNumbers.dll
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\SortEvenNumbers\obj\Debug\net8.0\ref\SortEvenNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\bin\Debug\net8.0\ListOfPredicates.exe
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\bin\Debug\net8.0\ListOfPredicates.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\bin\Debug\net8.0\ListOfPredicates.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\bin\Debug\net8.0\ListOfPredicates.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\bin\Debug\net8.0\ListOfPredicates.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\refint\ListOfPredicates.dll
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ListOfPredicates.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\ListOfPredicates\obj\Debug\net8.0\ref\ListOfPredicates.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.sourcelink.json
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\Advanced\StreamsExcercise\Skeleton-Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
