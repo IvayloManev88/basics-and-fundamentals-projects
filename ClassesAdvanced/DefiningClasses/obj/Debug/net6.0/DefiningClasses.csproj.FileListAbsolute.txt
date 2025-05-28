@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\refint\DefiningClasses.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net6.0\ref\DefiningClasses.dll

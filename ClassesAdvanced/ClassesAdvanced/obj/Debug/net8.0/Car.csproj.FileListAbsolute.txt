@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\bin\Debug\net8.0\Car.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\bin\Debug\net8.0\Car.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\bin\Debug\net8.0\Car.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\bin\Debug\net8.0\Car.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\bin\Debug\net8.0\Car.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\refint\Car.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\Car.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClassesAdvanced\obj\Debug\net8.0\ref\Car.dll

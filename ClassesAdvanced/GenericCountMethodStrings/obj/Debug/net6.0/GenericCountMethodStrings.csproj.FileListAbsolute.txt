@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

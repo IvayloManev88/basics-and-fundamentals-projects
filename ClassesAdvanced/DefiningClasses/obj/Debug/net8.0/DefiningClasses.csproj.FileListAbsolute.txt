@@ -1,0 +1,5 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net8.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net8.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net8.0\DefiningClasses.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net8.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\DefiningClasses\obj\Debug\net8.0\DefiningClasses.sourcelink.json

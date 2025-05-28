@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll
