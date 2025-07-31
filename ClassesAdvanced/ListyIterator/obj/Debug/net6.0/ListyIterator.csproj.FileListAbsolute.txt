@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll

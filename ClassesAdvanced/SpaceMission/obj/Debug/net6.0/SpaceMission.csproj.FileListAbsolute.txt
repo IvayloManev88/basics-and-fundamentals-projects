@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\bin\Debug\net6.0\SpaceMission.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\bin\Debug\net6.0\SpaceMission.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\bin\Debug\net6.0\SpaceMission.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\bin\Debug\net6.0\SpaceMission.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\bin\Debug\net6.0\SpaceMission.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\refint\SpaceMission.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\SpaceMission.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\SpaceMission\obj\Debug\net6.0\ref\SpaceMission.dll

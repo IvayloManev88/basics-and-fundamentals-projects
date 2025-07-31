@@ -1,0 +1,12 @@
+C:\Users\Armyman-PC\source\repos\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\Armyman-PC\source\repos\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\Armyman-PC\source\repos\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.sourcelink.json
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\Armyman-PC\source\repos\CarManager\obj\Debug\net6.0\ref\CarManager.dll

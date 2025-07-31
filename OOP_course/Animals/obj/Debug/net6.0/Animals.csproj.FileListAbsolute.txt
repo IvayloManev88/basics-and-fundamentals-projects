@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Animals\obj\Debug\net6.0\ref\Animals.dll

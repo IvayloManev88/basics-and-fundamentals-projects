@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\bin\Debug\net6.0\WildSurvival.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\bin\Debug\net6.0\WildSurvival.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\bin\Debug\net6.0\WildSurvival.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\bin\Debug\net6.0\WildSurvival.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\bin\Debug\net6.0\WildSurvival.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\refint\WildSurvival.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\WildSurvival.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\WildSurvival\obj\Debug\net6.0\ref\WildSurvival.dll

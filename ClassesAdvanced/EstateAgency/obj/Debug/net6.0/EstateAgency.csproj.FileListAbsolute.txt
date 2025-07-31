@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

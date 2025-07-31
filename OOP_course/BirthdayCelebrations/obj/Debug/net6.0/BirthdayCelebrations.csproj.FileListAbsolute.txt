@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\refint\BirthdayCelebrations.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll

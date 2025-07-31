@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Telephony\obj\Debug\net6.0\ref\Telephony.dll

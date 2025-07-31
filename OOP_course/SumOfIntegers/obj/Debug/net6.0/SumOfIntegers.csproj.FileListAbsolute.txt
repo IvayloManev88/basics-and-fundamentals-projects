@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll

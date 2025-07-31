@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll

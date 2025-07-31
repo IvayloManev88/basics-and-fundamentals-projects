@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\bin\Debug\net6.0\AAExamOne.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\bin\Debug\net6.0\AAExamOne.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\bin\Debug\net6.0\AAExamOne.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\bin\Debug\net6.0\AAExamOne.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\bin\Debug\net6.0\AAExamOne.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\refint\AAExamOne.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\AAExamOne.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamOne\obj\Debug\net6.0\ref\AAExamOne.dll

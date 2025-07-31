@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

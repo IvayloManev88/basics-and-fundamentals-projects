@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\bin\Debug\net6.0\ClickBait.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\bin\Debug\net6.0\ClickBait.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\bin\Debug\net6.0\ClickBait.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\bin\Debug\net6.0\ClickBait.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\bin\Debug\net6.0\ClickBait.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\refint\ClickBait.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ClickBait.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\ClickBait\obj\Debug\net6.0\ref\ClickBait.dll

@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\bin\Debug\net6.0\Cards.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\bin\Debug\net6.0\Cards.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\bin\Debug\net6.0\Cards.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\refint\Cards.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\Cards\obj\Debug\net6.0\ref\Cards.dll

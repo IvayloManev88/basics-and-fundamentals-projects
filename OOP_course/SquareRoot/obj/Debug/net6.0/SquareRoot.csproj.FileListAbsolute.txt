@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll

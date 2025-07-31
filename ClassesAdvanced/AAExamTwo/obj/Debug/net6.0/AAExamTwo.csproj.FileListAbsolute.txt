@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\bin\Debug\net6.0\AAExamTwo.exe
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\bin\Debug\net6.0\AAExamTwo.deps.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\bin\Debug\net6.0\AAExamTwo.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\bin\Debug\net6.0\AAExamTwo.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\bin\Debug\net6.0\AAExamTwo.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.sourcelink.json
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\refint\AAExamTwo.dll
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.pdb
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\AAExamTwo.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\ClassesAdvanced\AAExamTwo\obj\Debug\net6.0\ref\AAExamTwo.dll

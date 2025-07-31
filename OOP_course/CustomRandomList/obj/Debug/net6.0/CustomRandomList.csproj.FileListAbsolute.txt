@@ -1,0 +1,15 @@
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.sourcelink.json
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Users\Armyman-PC\source\repos\OOP_course\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll
