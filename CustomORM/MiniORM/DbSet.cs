@@ -1,0 +1,83 @@
+﻿using System.Collections;
+
+namespace MiniORM
+{
+    public class DbSet<TEntity> :ICollection<TEntity> 
+        where TEntity : class, new()
+    {
+        internal DbSet(IEnumerable<TEntity> entities)
+        {
+            this.Entities = entities.ToArray();
+            this.ChangeTracker = new ChangeTracker<TEntity>(entities);
+        }
+
+        // TODO: Create your DbSet class here.
+        internal ChangeTracker<TEntity> ChangeTracker { get; set; }
+        internal ICollection<TEntity> Entities { get; set; }
+
+        public int Count => this.Entities.Count;
+
+        public bool IsReadOnly => this.Entities.IsReadOnly;
+
+        public void Add(TEntity item)
+        {
+            this.Entities.Add(item);
+            this.ChangeTracker.Add(item); //Notification to the Change tracker
+
+        }
+        public bool Remove(TEntity item)
+        {
+            bool isRemoved = this.Entities.Remove(item);
+            if (isRemoved)
+            {
+                this.ChangeTracker.Remove(item); //Notification to the change Tracker
+
+            }
+            return isRemoved;
+        }
+        public void Clear()
+        {
+            while (this.Entities.Any())
+            {
+                TEntity entityToRemove = this.Entities.First();
+                this.Remove(entityToRemove);
+                
+            }
+        }
+
+        public bool Contains(TEntity item) => this.Entities.Contains(item);
+        
+
+        public void CopyTo(TEntity[] array, int arrayIndex)
+        {
+            this.Entities.CopyTo(array, arrayIndex);
+        }
+        public bool RemoveRange(IEnumerable<TEntity> range)
+        {
+           
+            foreach (TEntity entityToRemove in range)
+            {
+                bool result = this.Entities.Remove(entityToRemove);
+                if (!result)
+                {
+                    return false; // STOPS the removing since we have invalid parameter
+
+                }
+
+            }
+            return true;
+        }
+
+        public IEnumerator<TEntity> GetEnumerator()
+        {
+            return this.Entities.GetEnumerator();
+        }
+
+        
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+    }
+}

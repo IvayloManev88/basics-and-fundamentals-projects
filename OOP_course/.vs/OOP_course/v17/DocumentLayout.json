@@ -3,53 +3,53 @@
   "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{259F7263-A27C-4BDF-BA06-9B810D57306B}|..\\FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{259F7263-A27C-4BDF-BA06-9B810D57306B}|..\\FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22DD9FA9-17D1-47E5-8B67-8BDE3F254510}|..\\FightingArena\\FightingArena.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A5143F-4660-40D7-8114-93E5DB59C143}|..\\CarManager.Tests\\CarManager.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D41F48F6-C13A-4C0E-B480-20E2B1E2B9AD}|..\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\Rar$DIa30412.7789\\ExtendedDatabaseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D4526D-256B-4B6E-B685-B73BB8F95FA9}|..\\Database.Tests\\Database.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\skeleton.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\skeleton.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|solutionrelative:stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F5DA8C-C7FF-4B10-88ED-014AB7447CD9}|BorderControl\\BorderControl.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F5DA8C-C7FF-4B10-88ED-014AB7447CD9}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|solutionrelative:stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|solutionrelative:stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|solutionrelative:stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F5DA8C-C7FF-4B10-88ED-014AB7447CD9}|BorderControl\\BorderControl.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F5DA8C-C7FF-4B10-88ED-014AB7447CD9}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D4526D-256B-4B6E-B685-B73BB8F95FA9}|..\\Database.Tests\\Database.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41F48F6-C13A-4C0E-B480-20E2B1E2B9AD}|..\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A5143F-4660-40D7-8114-93E5DB59C143}|..\\CarManager.Tests\\CarManager.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DD9FA9-17D1-47E5-8B67-8BDE3F254510}|..\\FightingArena\\FightingArena.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259F7263-A27C-4BDF-BA06-9B810D57306B}|..\\FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259F7263-A27C-4BDF-BA06-9B810D57306B}|..\\FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\Rar$DIa30412.7789\\ExtendedDatabaseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\skeleton.tests\\skeleton.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3672842A-7AE9-422E-801C-552FE6FCF2EB}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\skeleton.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|c:\\users\\armyman-pc\\source\\repos\\oop_course\\stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9814F-B682-4F49-9883-6FDAE55D012E}|Stealer\\Stealer.csproj|solutionrelative:stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,7 +59,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,57 +79,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena\\Warrior.cs",
               "RelativeDocumentMoniker": "..\\FightingArena\\Warrior.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena\\Warrior.cs",
               "RelativeToolTip": "..\\FightingArena\\Warrior.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T05:51:57.141Z"
+              "WhenOpened": "2025-07-24T05:51:57.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "WarriorTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena.Tests\\WarriorTests.cs",
               "RelativeDocumentMoniker": "..\\FightingArena.Tests\\WarriorTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena.Tests\\WarriorTests.cs",
               "RelativeToolTip": "..\\FightingArena.Tests\\WarriorTests.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwFQAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:50:57.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ArenaTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena.Tests\\ArenaTests.cs",
               "RelativeDocumentMoniker": "..\\FightingArena.Tests\\ArenaTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\FightingArena.Tests\\ArenaTests.cs",
               "RelativeToolTip": "..\\FightingArena.Tests\\ArenaTests.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:49:38.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CarManagerTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\CarManager.Tests\\CarManagerTests.cs",
               "RelativeDocumentMoniker": "..\\CarManager.Tests\\CarManagerTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\CarManager.Tests\\CarManagerTests.cs",
               "RelativeToolTip": "..\\CarManager.Tests\\CarManagerTests.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwH0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T19:08:29.107Z"
+              "WhenOpened": "2025-07-23T19:08:29.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ExtendedDatabaseTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\Rar$DIa30412.7789\\ExtendedDatabaseTests.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa30412.7789\\ExtendedDatabaseTests.cs",
@@ -141,90 +143,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ExtendedDatabaseTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
               "RelativeDocumentMoniker": "..\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
               "RelativeToolTip": "..\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAADwv4cAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T11:40:13.861Z"
+              "WhenOpened": "2025-07-23T11:40:13.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DatabaseTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\Database.Tests\\DatabaseTests.cs",
               "RelativeDocumentMoniker": "..\\Database.Tests\\DatabaseTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\Database.Tests\\DatabaseTests.cs",
               "RelativeToolTip": "..\\Database.Tests\\DatabaseTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:08:42.177Z"
+              "WhenOpened": "2025-07-23T07:08:42.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Skeleton.Tests",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\Skeleton.Tests.csproj",
               "RelativeDocumentMoniker": "Skeleton.Tests\\Skeleton.Tests.csproj",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\Skeleton.Tests.csproj",
               "RelativeToolTip": "Skeleton.Tests\\Skeleton.Tests.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-22T13:39:52.992Z"
+              "WhenOpened": "2025-07-22T13:39:52.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "DummyTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\DummyTests.cs",
               "RelativeDocumentMoniker": "Skeleton.Tests\\DummyTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\DummyTests.cs",
               "RelativeToolTip": "Skeleton.Tests\\DummyTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:19:53.608Z"
+              "WhenOpened": "2025-07-22T13:19:53.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AxeTests.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\AxeTests.cs",
               "RelativeDocumentMoniker": "Skeleton.Tests\\AxeTests.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Skeleton.Tests\\AxeTests.cs",
               "RelativeToolTip": "Skeleton.Tests\\AxeTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:39:24.985Z"
+              "WhenOpened": "2025-07-22T12:39:24.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Spy.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Stealer\\Spy.cs",
               "RelativeDocumentMoniker": "Stealer\\Spy.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Stealer\\Spy.cs",
               "RelativeToolTip": "Stealer\\Spy.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T12:32:53.467Z"
+              "WhenOpened": "2025-07-18T12:32:53.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Hacker.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Stealer\\Hacker.cs",
               "RelativeDocumentMoniker": "Stealer\\Hacker.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Stealer\\Hacker.cs",
               "RelativeToolTip": "Stealer\\Hacker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T12:30:54.328Z"
+              "WhenOpened": "2025-07-18T12:30:54.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\Stealer\\Program.cs",
               "RelativeDocumentMoniker": "Stealer\\Program.cs",
@@ -236,15 +245,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Rebel.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\BorderControl\\Rebel.cs",
               "RelativeDocumentMoniker": "BorderControl\\Rebel.cs",
               "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\OOP_course\\BorderControl\\Rebel.cs",
               "RelativeToolTip": "BorderControl\\Rebel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T12:26:55.745Z"
+              "WhenOpened": "2025-07-03T12:26:55.745Z",
+              "EditorCaption": ""
             }
           ]
         }

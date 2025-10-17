@@ -1,0 +1,13 @@
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\bin\Debug\net6.0\MiniORM.deps.json
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\bin\Debug\net6.0\MiniORM.dll
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\bin\Debug\net6.0\MiniORM.pdb
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.csproj.AssemblyReference.cache
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.sourcelink.json
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.dll
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\refint\MiniORM.dll
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\MiniORM.pdb
+C:\Users\Armyman-PC\source\repos\CustomORM\MiniORM\obj\Debug\net6.0\ref\MiniORM.dll
