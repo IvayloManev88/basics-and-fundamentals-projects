@@ -1,0 +1,13 @@
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\bin\Debug\net6.0\P01_HospitalDatabase.Common.deps.json
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\bin\Debug\net6.0\P01_HospitalDatabase.Common.dll
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\bin\Debug\net6.0\P01_HospitalDatabase.Common.pdb
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.csproj.AssemblyReference.cache
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.sourcelink.json
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.dll
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\refint\P01_HospitalDatabase.Common.dll
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\P01_HospitalDatabase.Common.pdb
+C:\Users\Armyman-PC\source\repos\P01_HospitalDatabase\P01_HospitalDatabase.Common\obj\Debug\net6.0\ref\P01_HospitalDatabase.Common.dll

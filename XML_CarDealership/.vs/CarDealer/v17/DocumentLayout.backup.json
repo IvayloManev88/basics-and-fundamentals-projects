@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\armyman-pc\\source\\repos\\xml_cardealership\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\armyman-pc\\source\\repos\\xml_cardealership\\cardealer\\dtos\\export\\exportsalewithdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportsalewithdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\armyman-pc\\source\\repos\\xml_cardealership\\cardealer\\dtos\\export\\exportcarforsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\exportcarforsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\bb05db9f-54b9-4da8-a264-c50085870e26_submission-1649305.zip.e26\\StartUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\bb05db9f-54b9-4da8-a264-c50085870e26_submission-1649305.zip.e26\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\bb05db9f-54b9-4da8-a264-c50085870e26_submission-1649305.zip.e26\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\AppData\\Local\\Temp\\bb05db9f-54b9-4da8-a264-c50085870e26_submission-1649305.zip.e26\\StartUp.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\bb05db9f-54b9-4da8-a264-c50085870e26_submission-1649305.zip.e26\\StartUp.cs [Read Only]",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:31:56.154Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportCarForSaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\DTOs\\Export\\ExportCarForSaleDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportCarForSaleDto.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\DTOs\\Export\\ExportCarForSaleDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportCarForSaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:00:21.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportSaleWithDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\DTOs\\Export\\ExportSaleWithDiscount.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ExportSaleWithDiscount.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\DTOs\\Export\\ExportSaleWithDiscount.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ExportSaleWithDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:00:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\XML_CarDealership\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAADwv20BAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:04:45.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\bin\Debug\net6.0\BookShop.Common.deps.json
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\bin\Debug\net6.0\BookShop.Common.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\bin\Debug\net6.0\BookShop.Common.pdb
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.sourcelink.json
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\refint\BookShop.Common.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\BookShop.Common.pdb
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Common\obj\Debug\net6.0\ref\BookShop.Common.dll

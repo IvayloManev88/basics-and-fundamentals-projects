@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AEC480-54CD-4FD1-BAE4-60308EBC0DDB}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AEC480-54CD-4FD1-BAE4-60308EBC0DDB}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\applicationcommonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\applicationcommonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890E97A1-31FD-4DE5-A0A1-AACCC3A5B8DC}|P01_HospitalDatabase.Common\\P01_HospitalDatabase.Common.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890E97A1-31FD-4DE5-A0A1-AACCC3A5B8DC}|P01_HospitalDatabase.Common\\P01_HospitalDatabase.Common.csproj|solutionrelative:p01_hospitaldatabase.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\p01_hospitaldatabase.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{927B05ED-A4D3-40C6-B460-EC2EACC89EA2}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\p01_hospitaldatabase.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|c:\\users\\armyman-pc\\source\\repos\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\p01_hospitaldatabase.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71B38F09-B3FA-43E7-8955-5CC6C598AEF1}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\p01_hospitaldatabase.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T12:12:11.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:38:12.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:36:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Diagnose.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:33:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitation.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:29:30.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P01_HospitalDatabase.Data.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T11:19:44.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:19:58.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Common\\EntityValidationConstants.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Common\\EntityValidationConstants.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Common\\EntityValidationConstants.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Common\\EntityValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:15:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationCommonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\ApplicationCommonConfiguration.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\ApplicationCommonConfiguration.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\ApplicationCommonConfiguration.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\ApplicationCommonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:13:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "P01_HospitalDatabase.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T11:06:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:05:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeToolTip": "P01_HospitalDatabase\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:04:40.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

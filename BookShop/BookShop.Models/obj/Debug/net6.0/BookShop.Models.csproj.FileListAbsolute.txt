@@ -1,0 +1,16 @@
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.sourcelink.json
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\bin\Debug\net6.0\BookShop.Common.dll
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\bin\Debug\net6.0\BookShop.Common.pdb
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+C:\Users\Armyman-PC\source\repos\BookShop\BookShop.Models\obj\Debug\net6.0\BookShop.0AF9014D.Up2Date

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E2BC133-CD17-46F8-AF89-455D59EDF171}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|c:\\users\\armyman-pc\\source\\repos\\footballbetting\\p02_footballbetting.common\\p02_footballbetting.common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E2BC133-CD17-46F8-AF89-455D59EDF171}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|solutionrelative:p02_footballbetting.common\\p02_footballbetting.common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EA38594-0E6C-4CAC-84C4-B2C2626B24A9}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\armyman-pc\\source\\repos\\footballbetting\\p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EA38594-0E6C-4CAC-84C4-B2C2626B24A9}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "P02_FootballBetting.Common",
+              "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+              "ToolTip": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+              "RelativeToolTip": "P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T11:14:43.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\P02_FootballBetting.Data.Models\\Player.cs",
               "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Player.cs",
@@ -50,12 +66,11 @@
               "RelativeToolTip": "P02_FootballBetting.Data.Models\\Player.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:34:18.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T19:34:18.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\P02_FootballBetting.Data.Models\\Game.cs",
               "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Game.cs",
@@ -67,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FootballBettingContext.cs",
               "DocumentMoniker": "C:\\Users\\Armyman-PC\\source\\repos\\FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
               "RelativeDocumentMoniker": "P02_FootballBetting.Data\\FootballBettingContext.cs",

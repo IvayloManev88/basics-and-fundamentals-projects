@@ -1,0 +1,16 @@
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net6.0\P03_SalesDatabase.Data.deps.json
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net6.0\P03_SalesDatabase.Data.dll
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net6.0\P03_SalesDatabase.Data.pdb
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net6.0\P03_SalesDatabase.Data.Models.dll
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\bin\Debug\net6.0\P03_SalesDatabase.Data.Models.pdb
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.csproj.AssemblyReference.cache
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.AssemblyInfoInputs.cache
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.AssemblyInfo.cs
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.csproj.CoreCompileInputs.cache
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.sourcelink.json
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_Sale.896E1A15.Up2Date
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.dll
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\refint\P03_SalesDatabase.Data.dll
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\P03_SalesDatabase.Data.pdb
+C:\Users\Armyman-PC\source\repos\SalesDatabase\P03_SalesDatabase.Data\obj\Debug\net6.0\ref\P03_SalesDatabase.Data.dll
